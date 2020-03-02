@@ -25,6 +25,7 @@
 	
 
 # PNG of ERD:
+	- Refer to "EmployeeDB.png"
 	- <img EmployeeDB="EmployeeDB.png" width="100">
 
 
@@ -44,6 +45,7 @@
 	INNER JOIN salaries as s
 	ON (ce.emp_no = s.emp_no);
 
+	--Refer to titles_retirees.csv in Data folder.
 	SELECT * FROM titles_retirees;
 
 ##--List of Only the Most Recent Titles
@@ -64,6 +66,7 @@
 	FROM titles_order
 	WHERE r_num=1;
 
+	--Refer to titles_current.csv in Data folder.
 	SELECT * FROM titles_current;
 
 ##--List of the title count.
@@ -80,6 +83,7 @@
 	INTO titles_count
 	FROM count_titles;
 
+	--Refer to titles_count.csv in Data folder.
 	SELECT * FROM titles_count;
 
 ##--List of employees who are ready for Mentorship
@@ -110,7 +114,8 @@
 	INTO mentors_current
 	from mentor_table_uniquified
 	ORDER BY emp_no ASC;
-
+	
+	--Refer to mentors_current.csv in Data folder.
 	SELECT * FROM mentors_current;
 
 
