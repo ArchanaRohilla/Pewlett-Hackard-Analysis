@@ -1,22 +1,3 @@
-SELECT first_name, last_name
-FROM employees
-WHERE birth_date BETWEEN '1952-01-01' AND '1955-12-31';
-
-SELECT first_name, last_name
-FROM employees
-WHERE birth_date BETWEEN '1952-01-01' AND '1952-12-31';
-
-SELECT first_name, last_name
-FROM employees
-WHERE birth_date BETWEEN '1953-01-01' AND '1953-12-31';
-
-SELECT first_name, last_name
-FROM employees
-WHERE birth_date BETWEEN '1954-01-01' AND '1954-12-31';
-
-SELECT first_name, last_name
-FROM employees
-WHERE birth_date BETWEEN '1955-01-01' AND '1955-12-31';
 
 -- Retirement eligibility
 SELECT first_name, last_name
@@ -40,6 +21,7 @@ AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
 --Check the table
 SELECT * FROM retirement_info;
 
+--Delete the table if required
 DROP TABLE retirement_info;
 
 --Joining retirement_info and dept_emp tables
@@ -79,6 +61,7 @@ INNER JOIN dept_manager as dm
 ON d.dept_no = dm.dept_no;
 
 --Joining retirement_info and dept_emp tables using alias and create new table
+--Table containing only the current employees who are eligible for retirement 
 SELECT ri.emp_no,
 	ri.first_name,
 	ri.last_name,
@@ -216,19 +199,6 @@ ON (ce.emp_no = s.emp_no);
 SELECT * FROM titles_retirees;
 
 --List of Only the Most Recent Titles
---List of duplicate rows count in titles_retirees
-SELECT emp_no,
-  	first_name,
-	last_name,
-	COUNT (*)
-FROM titles_retirees
-GROUP BY emp_no,
-	first_name,
-	last_name
-HAVING COUNT (*) > 1
-ORDER BY emp_no ASC;
-
-
 --list of retirees with their titles in decending order as per from_date column
 SELECT *, 
 ROW_NUMBER() OVER (PARTITION BY first_name, last_name ORDER BY from_date DESC) AS r_num
@@ -238,45 +208,34 @@ ORDER BY emp_no ASC;
 
 SELECT * FROM titles_order;
 
---DROP TABLE titles_order;
 
 --List of retirees with their current titles
-SELECT * 
+SELECT  
+	emp_no, first_name, last_name, title, from_date, salary
 INTO titles_current
 FROM titles_order
 WHERE r_num=1;
 
 SELECT * FROM titles_current;
 
+
 --List of the title count 
-SELECT *,
+SELECT emp_no, first_name, last_name, title, from_date, salary,
 	COUNT(emp_no) OVER (PARTITION BY title) AS t_count
 INTO count_titles
-FROM titles_current;
+FROM titles_current
+ORDER BY emp_no ASC;
 
 SELECT * FROM count_titles;
 
 --List of the frequency count of employee titles 
 SELECT DISTINCT title,t_count
---INTO 
+INTO titles_count
 FROM count_titles;
 
+SELECT * FROM titles_count;
 
---List of the frequency count of employee titles 
-WITH myTable1 AS (
-SELECT *, 
-ROW_NUMBER() OVER (PARTITION BY first_name, last_name ORDER BY from_date DESC) AS r_num
-	FROM titles_retirees)
-
-, myTable2 AS (SELECT *, 
-	COUNT(emp_no) OVER (PARTITION BY title) AS t_count
-FROM myTable1
-WHERE r_num=1)
-
-SELECT DISTINCT title, t_count
-FROM myTable2 
-
---List of retirees who are ready for Mentorship
+--List of employees who are ready for Mentorship
 SELECT
 	e.emp_no,
 	e.first_name,
@@ -290,6 +249,9 @@ INNER JOIN dept_emp as de ON (e.emp_no = de.emp_no)
 WHERE e.birth_date BETWEEN '1965-01-01' AND '1965-12-31'
 AND de.to_date = '9999-01-01';
 
+SELECT * FROM mentor_table;
+
+--List of mentors with their current titles
 with my_table as (
 SELECT *, row_number() OVER (Partition By first_name, last_name Order by from_date desc) as r_num
 FROM mentor_table) 
@@ -297,9 +259,12 @@ Select *
 INTO mentor_table_uniquified
 From my_table where r_num = 1
 
-Select emp_no, first_name, last_name, from_date,to_date
+Select emp_no, first_name, last_name, title,from_date,to_date
+INTO mentors_current
 	from mentor_table_uniquified
 ORDER BY emp_no ASC;
+
+SELECT * FROM mentors_current;
 
 	
 

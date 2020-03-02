@@ -1,0 +1,1550 @@
+emp_no,first_name,last_name,title,from_date,to_date
+10095,Hilari,Morton,Senior Staff,2000-03-09,9999-01-01
+10122,Ohad,Esposito,Technique Leader,1998-08-06,9999-01-01
+10291,Dipayan,Seghrouchni,Senior Staff,1994-03-30,9999-01-01
+10476,Kokou,Iisaka,Senior Staff,1994-09-20,9999-01-01
+10663,Teunis,Noriega,Technique Leader,1993-01-23,9999-01-01
+10762,Lech,Himler,Senior Staff,1999-01-21,9999-01-01
+10933,Juyoung,Seghrouchni,Senior Engineer,1993-08-02,9999-01-01
+12155,Keiichiro,Glinert,Senior Engineer,2001-09-16,9999-01-01
+12408,Rasiah,Sudkamp,Senior Engineer,1995-04-18,9999-01-01
+12643,Morrie,Schurmann,Staff,1998-12-31,9999-01-01
+13499,Kazuhiko,Sidou,Technique Leader,1991-09-01,9999-01-01
+14075,Denny,Tchuente,Engineer,1998-05-30,9999-01-01
+14104,Sudhanshu,Demian,Senior Staff,1999-07-23,9999-01-01
+14127,Magdalena,Cannard,Senior Engineer,2002-04-22,9999-01-01
+14158,Caolyn,Setiz,Senior Staff,1996-02-06,9999-01-01
+14476,Sastry,Marrevee,Engineer,1999-09-25,9999-01-01
+14907,Nakhoon,Luga,Senior Staff,1994-12-18,9999-01-01
+15050,Nikolaos,Kruskal,Senior Engineer,1996-12-16,9999-01-01
+15058,Bouchung,Bugrara,Senior Staff,1998-06-18,9999-01-01
+15413,Arvin,Rabejac,Senior Engineer,2002-01-01,9999-01-01
+16461,Remmert,Schahn,Senior Staff,1994-09-06,9999-01-01
+16528,Gaurav,Swick,Engineer,2001-05-07,9999-01-01
+17013,Morris,Garigliano,Senior Staff,2000-05-23,9999-01-01
+17206,Berry,DeMori,Senior Engineer,1998-12-27,9999-01-01
+17369,Yaghout,Kenevan,Senior Engineer,1998-01-28,9999-01-01
+17447,Zengping,Boreale,Staff,1998-12-16,9999-01-01
+17731,Gennady,Roison,Engineer,1997-12-06,9999-01-01
+17970,Filipp,Carrere,Technique Leader,1989-01-09,9999-01-01
+17988,Mabhin,Calkin,Senior Engineer,1997-11-30,9999-01-01
+18021,Adil,Matzke,Senior Engineer,1995-05-08,9999-01-01
+18424,Filipp,Rousseau,Senior Engineer,2002-06-07,9999-01-01
+18583,Stafford,Honglei,Staff,1998-08-16,9999-01-01
+18617,Surveyors,Crouzet,Senior Staff,1998-04-24,9999-01-01
+18810,Taiji,Jarecki,Senior Engineer,1999-06-27,9999-01-01
+19236,Elzbieta,Morris,Senior Engineer,1993-07-12,9999-01-01
+19350,Satoru,Yoshizawa,Senior Staff,1999-03-27,9999-01-01
+19803,Ziva,Kowalchuk,Senior Engineer,1992-06-12,9999-01-01
+20100,Utz,Heuter,Senior Staff,1995-06-15,9999-01-01
+20128,Kazunori,Peak,Senior Staff,1999-08-13,9999-01-01
+20129,Rafael,Skafidas,Senior Engineer,2000-03-27,9999-01-01
+20248,Vidar,Demri,Staff,1999-12-31,9999-01-01
+20313,Candida,Benveniste,Engineer,1999-01-20,9999-01-01
+20500,Christoph,Trystram,Senior Staff,1998-10-15,9999-01-01
+20885,Otmar,Rothenberg,Senior Engineer,1996-03-14,9999-01-01
+21181,Jianhui,Cangellaris,Engineer,1999-10-06,9999-01-01
+21188,Piyush,Danecki,Engineer,2000-01-08,9999-01-01
+21546,Yongmin,Lanteri,Senior Staff,1988-02-16,9999-01-01
+21843,Karsten,Azadmanesh,Senior Engineer,1985-11-29,9999-01-01
+21909,Mohammed,Brizzi,Senior Staff,1998-12-28,9999-01-01
+22185,Huai,Birch,Engineer,2002-03-26,9999-01-01
+22415,Perla,Jumpertz,Senior Staff,1994-08-24,9999-01-01
+22451,Jasminko,Bresenham,Senior Staff,1996-12-15,9999-01-01
+22455,Barry,Unno,Senior Staff,1999-11-16,9999-01-01
+22926,Manibrata,Genther,Senior Engineer,1996-01-15,9999-01-01
+23396,Hilari,Fairtlough,Technique Leader,1986-12-15,9999-01-01
+24080,Jaana,Perez,Technique Leader,1996-03-11,9999-01-01
+24205,Roddy,Rubsam,Senior Engineer,1993-09-19,9999-01-01
+24377,Lubomir,Wroclawski,Senior Engineer,2000-07-25,9999-01-01
+24394,Zhonghui,Conta,Staff,1994-09-10,9999-01-01
+24553,Anwar,Passafiume,Senior Staff,1994-01-30,9999-01-01
+24571,Cordelia,Gischer,Senior Engineer,1995-03-14,9999-01-01
+25488,Ingmar,Basawa,Senior Staff,1997-11-08,9999-01-01
+26629,Nevin,Rodham,Senior Staff,1998-12-14,9999-01-01
+26671,Jiakeng,Kalorkoti,Senior Engineer,2001-12-25,9999-01-01
+26788,Zongyan,Dalphin,Senior Engineer,1993-04-23,9999-01-01
+27331,Wanqing,Krohm,Senior Staff,1999-01-22,9999-01-01
+27378,Piyawadee,Leppanen,Senior Staff,1999-02-25,9999-01-01
+27620,Shuji,Kandlur,Senior Engineer,1997-03-02,9999-01-01
+27686,Manu,Rosiles,Senior Staff,1998-03-03,9999-01-01
+27699,Falguni,Pezzoli,Engineer,1996-12-23,9999-01-01
+27767,Tooru,Veldwijk,Senior Staff,2000-11-21,9999-01-01
+28193,Xinglin,Mitsuhashi,Senior Engineer,1997-12-14,9999-01-01
+28974,Chenxi,Sundgren,Senior Engineer,1986-09-02,9999-01-01
+28988,Tua,Giveon,Technique Leader,1998-09-09,9999-01-01
+29130,Xumin,Thorensen,Staff,1998-04-26,9999-01-01
+29265,Gilbert,Calkin,Senior Staff,1994-03-21,9999-01-01
+29380,Satoru,Vidal,Assistant Engineer,1998-05-02,9999-01-01
+29418,Valery,Mersereau,Assistant Engineer,1998-07-01,9999-01-01
+29679,Kolar,Steenbeek,Senior Engineer,1986-10-18,9999-01-01
+29782,Jouko,Hellwagner,Senior Engineer,1994-12-21,9999-01-01
+29954,Pranay,Giarratana,Senior Engineer,1992-09-29,9999-01-01
+30007,Kousuke,Vecchio,Senior Engineer,1999-02-23,9999-01-01
+30035,Tetsushi,Conta,Senior Staff,1995-07-04,9999-01-01
+30154,Mayuko,Skafidas,Technique Leader,1999-04-19,9999-01-01
+30182,Leon,Potthoff,Senior Engineer,1993-12-08,9999-01-01
+30465,Randi,Avouris,Senior Engineer,1991-07-16,9999-01-01
+30484,Sailaja,Chvatal,Staff,1999-05-18,9999-01-01
+30695,Gudjon,Majewski,Senior Engineer,1999-10-26,9999-01-01
+30938,Yakkov,Samarati,Senior Staff,2000-05-22,9999-01-01
+31147,Divine,Sidhu,Senior Staff,1989-07-05,9999-01-01
+31188,Leandro,Gist,Technique Leader,1993-02-03,9999-01-01
+31207,Abdelwaheb,Dulin,Senior Engineer,1993-08-05,9999-01-01
+31341,Oksana,Zultner,Senior Staff,1997-03-22,9999-01-01
+31514,Harngdar,Schapire,Senior Engineer,2001-11-09,9999-01-01
+31568,Mark,Lalonde,Staff,1996-11-24,9999-01-01
+31909,Murthy,Peek,Engineer,1994-07-19,9999-01-01
+32347,Terresa,Peres,Senior Staff,1997-09-15,9999-01-01
+32552,Atreye,Stanger,Engineer,1999-09-10,9999-01-01
+32649,Ingmar,Nannarelli,Senior Staff,1988-06-10,9999-01-01
+32714,Radoslaw,Maliniak,Staff,1997-11-17,9999-01-01
+32844,Tadahiko,Melton,Engineer,1995-01-07,9999-01-01
+33025,Jessie,Thorelli,Senior Staff,1999-12-16,9999-01-01
+33215,Steen,Fasbender,Technique Leader,1993-02-14,9999-01-01
+33722,Anwar,Collette,Senior Engineer,1994-03-22,9999-01-01
+34077,Angel,Sichman,Senior Staff,1997-11-16,9999-01-01
+34261,Kyoichi,Callaway,Senior Staff,1996-12-29,9999-01-01
+34446,Chinhyun,Bauknecht,Senior Engineer,1986-12-19,9999-01-01
+34452,Naftaly,Foong,Senior Engineer,2000-05-09,9999-01-01
+34505,Felicidad,Kumaresan,Senior Staff,2001-09-06,9999-01-01
+34533,Erzsebet,Shigei,Senior Engineer,1991-01-21,9999-01-01
+34780,Moni,Kohling,Staff,1994-07-21,9999-01-01
+34788,Ennio,Babu,Senior Engineer,1994-08-31,9999-01-01
+34936,Bokyung,Stamatiou,Technique Leader,1991-02-12,9999-01-01
+35044,Jiang,Waschkowski,Senior Engineer,1997-05-27,9999-01-01
+35087,Leif,Ashish,Senior Staff,2001-10-14,9999-01-01
+35441,Chandrasekaran,Peek,Senior Engineer,1993-02-06,9999-01-01
+35642,Ashish,Talmon,Senior Engineer,2002-06-13,9999-01-01
+35793,Oscar,Kusalik,Senior Staff,1996-05-10,9999-01-01
+35798,Ulf,Oberman,Senior Engineer,1997-03-15,9999-01-01
+36521,Serif,Gladwell,Senior Staff,1993-03-05,9999-01-01
+36626,Fen,Genin,Senior Staff,1986-05-09,9999-01-01
+36733,Uma,Reinhard,Staff,1997-11-01,9999-01-01
+36844,Hailing,Levergood,Staff,2000-01-12,9999-01-01
+36982,Kotesh,Rajala,Senior Engineer,2000-06-23,9999-01-01
+37070,Jeong,Undy,Senior Staff,1993-02-13,9999-01-01
+37945,Suzette,Butterworth,Senior Engineer,1994-02-19,9999-01-01
+38043,Michaela,Randi,Senior Engineer,1994-11-23,9999-01-01
+38103,Masasuke,Babu,Senior Engineer,1993-03-31,9999-01-01
+38168,Fumiko,Deverell,Senior Staff,1996-08-14,9999-01-01
+38550,JoAnne,Baez,Senior Engineer,1987-02-16,9999-01-01
+38593,Huei,Orsini,Senior Engineer,1995-06-04,9999-01-01
+38947,Shuichi,Ruemmler,Senior Staff,1998-03-08,9999-01-01
+39000,Martijn,Vendrig,Senior Staff,2002-03-03,9999-01-01
+39036,Changho,Cappelli,Staff,1996-05-04,9999-01-01
+39301,Rimon,Kawashima,Senior Staff,1998-02-05,9999-01-01
+39341,Mahmut,Lampe,Senior Engineer,1994-05-11,9999-01-01
+39952,Otmar,Sudbeck,Staff,1998-07-22,9999-01-01
+40269,Toshiki,Ghazalie,Senior Staff,2000-12-04,9999-01-01
+40283,Sudhanshu,Boissier,Senior Engineer,1993-05-11,9999-01-01
+40301,Spyrose,Felder,Senior Engineer,1996-06-16,9999-01-01
+40536,Harngdar,Bernardinello,Senior Engineer,1996-02-29,9999-01-01
+40765,Michaela,Ramsak,Senior Staff,2001-12-21,9999-01-01
+40773,Shimshon,Aingworth,Senior Staff,1991-04-13,9999-01-01
+40983,Marla,Cherinka,Technique Leader,1986-12-01,9999-01-01
+41114,Petter,Thummel,Technique Leader,1995-12-24,9999-01-01
+41137,Bikash,Buchter,Senior Staff,1992-11-22,9999-01-01
+41357,Willard,Vernadat,Engineer,1997-03-04,9999-01-01
+41518,Keung,Schapiro,Senior Engineer,1998-04-19,9999-01-01
+41520,Xiong,Uhrik,Senior Engineer,1988-03-21,9999-01-01
+41609,Yucai,Simmen,Senior Staff,1987-10-13,9999-01-01
+42778,Shuji,Remmers,Senior Staff,1996-12-17,9999-01-01
+42911,Brigham,Eterovic,Senior Engineer,1999-10-08,9999-01-01
+42950,Shaleah,Eickenmeyer,Senior Staff,1993-10-09,9999-01-01
+42955,Yucel,Lortz,Engineer,1995-02-21,9999-01-01
+43154,Maha,Waterhouse,Senior Staff,2002-07-04,9999-01-01
+43733,Huei,Boguraev,Senior Staff,1998-12-31,9999-01-01
+43848,Phillip,Oxenboll,Engineer,1999-05-26,9999-01-01
+44054,Alenka,Ritcey,Engineer,1997-02-09,9999-01-01
+44265,Maria,Eppinger,Engineer,1997-01-30,9999-01-01
+44540,Mingzeng,Sadowski,Senior Engineer,1989-11-12,9999-01-01
+44900,Mark,Schwaller,Senior Staff,2001-08-10,9999-01-01
+44959,Volkmar,Uhrik,Senior Engineer,1995-01-16,9999-01-01
+44962,Sariel,Wynblatt,Assistant Engineer,1996-05-18,9999-01-01
+45162,Dulce,Speel,Senior Engineer,1996-10-18,9999-01-01
+46000,Zhaofang,Penn,Senior Staff,2002-07-24,9999-01-01
+46328,Wuxu,Trogemann,Senior Staff,1997-01-27,9999-01-01
+46811,Junsik,Berendt,Senior Engineer,1988-04-27,9999-01-01
+46834,Tooru,Daescu,Senior Staff,1998-03-20,9999-01-01
+46943,Pasqua,Maraist,Senior Engineer,1998-12-06,9999-01-01
+47016,Toong,Litecky,Senior Staff,1994-03-01,9999-01-01
+47139,Marco,Usdin,Engineer,1996-10-29,9999-01-01
+47262,Gonzalo,Binkley,Senior Engineer,1990-08-16,9999-01-01
+47515,Naraig,Jenevein,Senior Engineer,1987-01-18,9999-01-01
+47702,Juyoung,Vieri,Senior Staff,1999-08-12,9999-01-01
+47708,Edwin,Haldar,Senior Staff,1995-07-12,9999-01-01
+48275,Sariel,Massonet,Senior Staff,1993-11-19,9999-01-01
+48690,Hitomi,Schaap,Staff,1999-09-27,9999-01-01
+48882,Leen,Lamparter,Senior Engineer,2001-06-07,9999-01-01
+48904,Yuichiro,Malabarba,Senior Staff,1999-03-07,9999-01-01
+48947,Filipp,Akaboshi,Senior Staff,1992-05-20,9999-01-01
+49010,Kazuhisa,Benantar,Senior Staff,1994-10-23,9999-01-01
+49017,Filipp,Flanders,Senior Engineer,1999-11-26,9999-01-01
+49119,Lena,Peek,Senior Engineer,1997-05-15,9999-01-01
+49177,Tze,Bach,Engineer,1999-03-09,9999-01-01
+49464,Siddarth,Cappelletti,Staff,1999-09-10,9999-01-01
+49477,Baocai,Leaver,Senior Staff,1998-08-05,9999-01-01
+50293,Xinan,Rindone,Engineer,1996-10-08,9999-01-01
+50311,Mooi,Stafford,Senior Engineer,1996-10-06,9999-01-01
+50453,Aron,Harbusch,Staff,1997-10-02,9999-01-01
+50670,Boguslaw,Snedden,Senior Staff,1993-02-20,9999-01-01
+50831,Marie,Khalid,Senior Engineer,1990-10-27,9999-01-01
+51036,Chriss,Fasbender,Staff,1995-05-23,9999-01-01
+51057,Theirry,Albarhamtoshy,Senior Staff,1996-09-26,9999-01-01
+51060,Youngkon,Rohrbach,Senior Engineer,1998-10-20,9999-01-01
+51142,Rosine,Lakshmanan,Senior Engineer,1991-01-31,9999-01-01
+52038,Chikako,Armand,Senior Engineer,1985-05-18,9999-01-01
+52040,Phule,Heijenga,Senior Staff,1998-02-21,9999-01-01
+52283,Trygve,Krupka,Senior Staff,2001-03-11,9999-01-01
+52386,Adas,Denti,Senior Staff,1995-05-30,9999-01-01
+52590,Jouni,Munoz,Senior Staff,2000-11-25,9999-01-01
+52599,Augustine,Mungall,Senior Engineer,1996-08-30,9999-01-01
+52639,Arup,Colorni,Senior Staff,1996-02-05,9999-01-01
+52770,Shugo,Yurek,Senior Staff,1998-08-28,9999-01-01
+52778,Alain,Penn,Technique Leader,1986-05-03,9999-01-01
+52956,Khalil,Picci,Senior Engineer,1992-03-20,9999-01-01
+52970,Lobel,Werthner,Senior Engineer,1997-03-17,9999-01-01
+53278,Premsyl,Lortz,Senior Staff,1999-02-01,9999-01-01
+53314,Eberhardt,Carrera,Staff,1999-02-23,9999-01-01
+53431,Sham,Vasanthakumar,Senior Staff,1985-10-24,9999-01-01
+53499,Zdislav,Mandelberg,Senior Engineer,2000-09-10,9999-01-01
+53597,Jiafu,Marchegay,Senior Engineer,1992-03-02,9999-01-01
+53874,Bodo,Schade,Senior Staff,1995-02-14,9999-01-01
+53924,Arnould,Gaughan,Senior Engineer,1998-01-23,9999-01-01
+54198,Shaowen,Segond,Senior Engineer,1993-01-06,9999-01-01
+54632,Etsuo,Serot,Senior Staff,1997-06-14,9999-01-01
+54795,Sumant,Nergos,Senior Staff,2000-05-07,9999-01-01
+54800,Breannda,Cangellaris,Staff,2000-01-27,9999-01-01
+55640,Adit,Syrotiuk,Senior Engineer,1999-07-16,9999-01-01
+55687,Shih,Lindqvist,Senior Engineer,1995-03-29,9999-01-01
+55799,Jianwen,Litzler,Senior Engineer,1993-06-16,9999-01-01
+55857,Adin,Scallan,Senior Staff,1996-09-14,9999-01-01
+56105,Makato,Remmers,Senior Engineer,1994-04-16,9999-01-01
+56209,Remzi,Douceur,Senior Engineer,1998-12-01,9999-01-01
+56415,Sigeru,Nivat,Senior Staff,1999-10-24,9999-01-01
+56428,Olivera,Hanabata,Senior Staff,1992-11-09,9999-01-01
+56682,Roded,Picco,Assistant Engineer,1993-11-06,9999-01-01
+56829,Nagui,Gruenwald,Engineer,1995-12-24,9999-01-01
+56847,Menkae,Chinin,Senior Engineer,1989-08-19,9999-01-01
+57934,Sanjoy,Boudaillier,Senior Engineer,1997-12-27,9999-01-01
+58141,Bezalel,Karner,Staff,1994-09-27,9999-01-01
+58147,Shigenori,Sullins,Senior Staff,1988-02-24,9999-01-01
+58384,Mariusz,Vural,Senior Engineer,2001-11-14,9999-01-01
+58454,Ziya,Zambonelli,Engineer,1999-06-29,9999-01-01
+58497,Yechiam,Cairo,Senior Staff,1996-07-12,9999-01-01
+58819,Gennady,Liesche,Senior Staff,1987-12-02,9999-01-01
+58990,Palash,Trelles,Engineer,1998-11-18,9999-01-01
+59195,Ronnie,Pollock,Technique Leader,1990-06-19,9999-01-01
+59640,Zita,Hiltgen,Staff,1999-01-26,9999-01-01
+59869,Zsolt,Riefers,Senior Staff,1994-09-25,9999-01-01
+59966,Steen,Salvesen,Technique Leader,1993-02-03,9999-01-01
+60000,Heekeun,Emmart,Engineer,2001-09-22,9999-01-01
+60091,Surveyors,Bade,Senior Staff,1996-04-10,9999-01-01
+60238,Erzsebet,Claffy,Staff,1997-03-03,9999-01-01
+60559,Jeanna,Stemann,Senior Engineer,1996-08-29,9999-01-01
+60821,Moty,Mersereau,Senior Staff,1999-09-03,9999-01-01
+60845,Bedir,Siegrist,Engineer,1997-05-13,9999-01-01
+60875,Rildo,Masaki,Senior Engineer,1997-01-14,9999-01-01
+60959,Tetsushi,Sridhar,Senior Staff,1997-01-12,9999-01-01
+61147,Leszek,Werthner,Staff,1999-03-03,9999-01-01
+61253,Cheong,Uhrik,Senior Engineer,2001-06-04,9999-01-01
+61377,Dannz,Ohori,Senior Staff,1994-01-17,9999-01-01
+61541,Kasidit,Papsdorf,Senior Engineer,1999-08-17,9999-01-01
+61873,Woody,Rusmann,Engineer,2002-02-26,9999-01-01
+62033,Heeju,Cappelli,Senior Engineer,1994-01-15,9999-01-01
+62046,Karlis,Nanard,Senior Engineer,2001-09-19,9999-01-01
+62245,Adel,Bressoud,Engineer,1995-08-30,9999-01-01
+63294,Tetsushi,Tanemo,Senior Engineer,2002-03-01,9999-01-01
+63419,Hiroyasu,Seuren,Senior Engineer,1989-03-05,9999-01-01
+63441,Hinrich,Scallan,Staff,1999-04-04,9999-01-01
+63566,Heekeun,Slaats,Senior Staff,1999-01-12,9999-01-01
+63631,Falguni,Cherinka,Senior Engineer,1986-09-08,9999-01-01
+63706,Sedat,Itzigehl,Engineer,1997-07-31,9999-01-01
+64023,Laurentiu,Benzmuller,Senior Engineer,1999-11-08,9999-01-01
+64209,Golgen,Schoegge,Senior Staff,1988-02-26,9999-01-01
+64487,Tsutomu,Rebaine,Senior Engineer,1994-09-17,9999-01-01
+64532,Atilio,Segond,Senior Engineer,1996-11-28,9999-01-01
+64632,Zsolt,Brender,Senior Staff,1996-02-21,9999-01-01
+64790,Shin,Piveteau,Senior Engineer,1993-04-19,9999-01-01
+64828,Krister,Pappas,Staff,1999-09-30,9999-01-01
+64984,Eldridge,Eldridge,Senior Engineer,1991-06-24,9999-01-01
+65171,Jeane,Tasistro,Technique Leader,1994-07-06,9999-01-01
+65539,Aksel,Picaronny,Senior Engineer,1998-01-27,9999-01-01
+65883,Patricia,Pepe,Senior Staff,1996-04-18,9999-01-01
+65998,Mandell,Alameldin,Senior Staff,1996-04-08,9999-01-01
+66382,Domenico,Candan,Engineer,1997-07-13,9999-01-01
+66530,Dung,Leaver,Staff,1998-04-04,9999-01-01
+66643,Jianhao,Tomescu,Engineer,1996-08-26,9999-01-01
+66702,Deniz,Thibadeau,Senior Engineer,2000-09-26,9999-01-01
+66757,Yonghong,Baig,Staff,1999-04-10,9999-01-01
+66807,Aiman,Rosaz,Senior Engineer,1999-05-22,9999-01-01
+67320,Sadok,Lorys,Senior Staff,1987-05-10,9999-01-01
+67548,Fumitaka,Roohalamini,Staff,1998-06-27,9999-01-01
+67934,Aiman,Gargeya,Senior Engineer,1993-03-07,9999-01-01
+68416,Munenori,Debuse,Senior Engineer,1990-11-08,9999-01-01
+68608,Yucai,Seghrouchni,Senior Engineer,1994-06-09,9999-01-01
+68633,Chinhyun,Rassart,Senior Engineer,1993-07-29,9999-01-01
+68648,Jaques,DiGiano,Technique Leader,1992-04-01,9999-01-01
+69052,Shietung,Shrader,Senior Staff,1995-08-05,9999-01-01
+69219,Shuky,Redmiles,Senior Staff,1994-07-06,9999-01-01
+69867,Miyeon,Rothe,Senior Staff,1997-04-08,9999-01-01
+69878,Chinya,Cooke,Engineer,1997-01-29,9999-01-01
+69936,Lalit,Unni,Assistant Engineer,1998-12-06,9999-01-01
+70469,Tru,Miyakawa,Senior Staff,1998-09-03,9999-01-01
+70990,Arumugam,Nitta,Senior Engineer,1990-03-23,9999-01-01
+71066,Domenick,Basart,Senior Staff,2001-01-04,9999-01-01
+71141,Sajjad,Vitiello,Senior Staff,1997-02-16,9999-01-01
+71188,Pranjal,Schapiro,Senior Staff,1993-12-14,9999-01-01
+71243,Kinh,Buchter,Senior Engineer,1993-03-29,9999-01-01
+71334,Cathie,Peck,Senior Engineer,1998-04-12,9999-01-01
+71685,Kristinn,Olano,Senior Engineer,1989-10-03,9999-01-01
+71710,Hitomi,Takanami,Assistant Engineer,1997-12-15,9999-01-01
+71745,Adil,Laventhal,Engineer,2001-05-13,9999-01-01
+72190,Sajjad,Waeselynck,Engineer,1999-09-13,9999-01-01
+72194,Feiyu,Siepmann,Senior Engineer,1998-10-01,9999-01-01
+72232,Naraig,Veldwijk,Senior Engineer,1996-07-10,9999-01-01
+72640,Honglan,Hutton,Senior Engineer,1998-10-04,9999-01-01
+72918,Takahira,Szilard,Senior Staff,1993-01-15,9999-01-01
+73076,Froduald,Feldhoffer,Senior Engineer,1993-03-16,9999-01-01
+73233,Shigeo,Merey,Senior Engineer,1985-07-30,9999-01-01
+73516,Qingxiang,Badache,Senior Engineer,1996-06-25,9999-01-01
+73743,Anneke,Bernardeschi,Engineer,1999-11-01,9999-01-01
+74200,Holgard,Weiland,Senior Engineer,1991-09-24,9999-01-01
+74344,Hiroyasu,Provine,Engineer,1994-11-25,9999-01-01
+74668,Masako,Bonifati,Senior Staff,1987-04-09,9999-01-01
+74800,Yuuichi,Conde,Senior Engineer,1999-03-08,9999-01-01
+75354,Shuky,Jakobus,Senior Engineer,1993-06-16,9999-01-01
+75703,Kyoichi,Erman,Senior Engineer,2001-07-25,9999-01-01
+76189,Kolar,Hinsberger,Senior Engineer,1994-10-20,9999-01-01
+76201,Arif,Preusig,Senior Engineer,1992-04-02,9999-01-01
+76640,Tristan,Mitsuhashi,Senior Engineer,2000-07-12,9999-01-01
+77030,Faiza,Garnham,Technique Leader,1986-03-02,9999-01-01
+77303,Xinglin,Birge,Senior Staff,2001-03-05,9999-01-01
+77647,Niranjan,Schaaf,Technique Leader,1989-11-05,9999-01-01
+77815,Ronghao,Picaronny,Engineer,2002-06-09,9999-01-01
+78106,Ashish,Ratnaker,Senior Staff,1986-11-10,9999-01-01
+78363,Susumu,Fritzsche,Engineer,1998-06-23,9999-01-01
+78469,Leucio,Cappelli,Staff,1997-08-22,9999-01-01
+78871,Conor,Ghandeharizadeh,Senior Engineer,1985-05-25,9999-01-01
+79043,Katsuo,Hockney,Technique Leader,1999-11-07,9999-01-01
+79171,Guiseppe,Ellozy,Senior Engineer,1991-01-12,9999-01-01
+79310,Jeong,Cunliffe,Senior Staff,1996-10-27,9999-01-01
+79606,Arnd,Peir,Senior Engineer,1986-12-11,9999-01-01
+79763,Sanjoy,Barreiro,Senior Staff,1996-04-09,9999-01-01
+79895,Fei,Murtagh,Senior Staff,1986-01-19,9999-01-01
+80067,Kazuhisa,Weiland,Senior Staff,1991-11-09,9999-01-01
+80203,Shakhar,Baik,Staff,1993-12-01,9999-01-01
+80432,Stella,Figueira,Senior Staff,1998-03-14,9999-01-01
+80731,Shaowen,Eldridge,Senior Staff,1994-12-05,9999-01-01
+80850,Koldo,Luit,Senior Engineer,2001-04-15,9999-01-01
+80889,Shigeo,Linnainmaa,Senior Engineer,1985-07-30,9999-01-01
+80948,Harjit,Bardell,Senior Engineer,1996-05-23,9999-01-01
+81105,Jaewon,Boissier,Senior Engineer,1998-05-24,9999-01-01
+81545,Larisa,Kornyak,Technique Leader,1996-03-10,9999-01-01
+81644,Divine,Ghandeharizadeh,Staff,1997-11-28,9999-01-01
+81995,Sreekrishna,Brender,Senior Engineer,1996-03-21,9999-01-01
+82069,Yechezkel,Perfilyeva,Senior Engineer,2000-11-02,9999-01-01
+82098,Poornachandra,Wilharm,Senior Engineer,1998-04-20,9999-01-01
+82351,Stevo,Thambidurai,Senior Staff,1989-10-27,9999-01-01
+82511,Uwe,Koblick,Engineer,1998-04-04,9999-01-01
+82919,Shigeu,Claffy,Engineer,1998-02-03,9999-01-01
+82928,Alselm,Rikino,Senior Engineer,1997-11-16,9999-01-01
+83280,Francesca,Ellozy,Senior Engineer,1999-08-08,9999-01-01
+83289,Shigeichiro,Engelmann,Senior Engineer,2000-01-09,9999-01-01
+83509,Breannda,Collavizza,Senior Engineer,1994-10-12,9999-01-01
+83544,Leaf,Baak,Senior Staff,2001-09-05,9999-01-01
+83714,Ohad,Kilgore,Senior Engineer,1997-07-01,9999-01-01
+83805,Manohar,Harllee,Senior Engineer,1987-03-11,9999-01-01
+83941,Zsolt,Hagimont,Senior Staff,2001-10-08,9999-01-01
+84029,Babette,Eugenio,Staff,1997-09-21,9999-01-01
+84179,Shuichi,Nanard,Senior Engineer,1989-03-14,9999-01-01
+84236,Eberhardt,Barriga,Senior Staff,1993-06-03,9999-01-01
+84315,Kristina,Baumann,Assistant Engineer,1996-09-26,9999-01-01
+84451,Shiv,Aumann,Senior Engineer,1998-06-14,9999-01-01
+84508,Tommaso,Vidya,Engineer,1998-05-02,9999-01-01
+84840,Sverrir,Neimat,Staff,1996-11-03,9999-01-01
+84922,Parke,Unno,Engineer,1996-07-01,9999-01-01
+84942,Shin,Fujisaki,Technique Leader,1988-02-23,9999-01-01
+85216,Ferdinand,Rosiles,Senior Staff,1997-07-08,9999-01-01
+85288,Younwoo,Luders,Senior Engineer,2002-03-31,9999-01-01
+85414,Chiradeep,Callaway,Staff,1999-07-30,9999-01-01
+85445,Yongdong,Pollock,Staff,1998-03-17,9999-01-01
+85702,Udi,Merks,Engineer,1997-08-15,9999-01-01
+85874,Pasqua,Taubman,Senior Staff,1986-06-23,9999-01-01
+86213,Kristine,Clemencon,Senior Staff,1996-04-21,9999-01-01
+86354,Ronghao,Segond,Senior Engineer,1993-09-13,9999-01-01
+86422,Jaewon,Thummel,Senior Staff,1992-09-14,9999-01-01
+86546,Oldrich,Woycyznski,Senior Engineer,1990-05-15,9999-01-01
+86655,Zhenhua,Lorys,Engineer,1995-08-21,9999-01-01
+86672,JoAnne,Anido,Staff,1995-09-15,9999-01-01
+87129,Keung,Neiman,Staff,1997-04-13,9999-01-01
+87353,Quingbo,Coombs,Senior Engineer,1999-01-17,9999-01-01
+87714,Khun,Janetzko,Engineer,1998-09-13,9999-01-01
+87729,Yongmin,Roccetti,Senior Staff,1991-12-10,9999-01-01
+87783,Conor,Thorensen,Senior Engineer,1988-02-24,9999-01-01
+88103,Goo,Bresenham,Senior Staff,1999-01-31,9999-01-01
+88411,Lena,Cannane,Engineer,2000-01-28,9999-01-01
+88422,Jungsoon,Birsak,Technique Leader,1985-04-03,9999-01-01
+88647,Vasiliy,Ratnaker,Engineer,1995-08-09,9999-01-01
+88958,Vojin,Coombs,Senior Staff,2002-07-23,9999-01-01
+88965,Mang,Hedayat,Engineer,1995-05-22,9999-01-01
+89048,Otmar,Birjandi,Senior Engineer,1992-03-23,9999-01-01
+89090,Tetsushi,Theuretzbacher,Senior Staff,1995-02-01,9999-01-01
+89161,Conal,Yetto,Senior Staff,1999-01-12,9999-01-01
+89207,Along,Erol,Senior Staff,1999-10-17,9999-01-01
+89346,Mansur,Comyn,Engineer,1999-08-31,9999-01-01
+89590,Guther,Rothenberg,Senior Staff,2000-08-07,9999-01-01
+89664,Pranjal,Rossi,Staff,1998-07-07,9999-01-01
+89680,Aiman,Mawatari,Senior Engineer,1997-05-01,9999-01-01
+89806,Xiadong,Shinomoto,Senior Engineer,2002-05-24,9999-01-01
+89922,Alexius,Ibel,Senior Engineer,1993-04-24,9999-01-01
+89941,Arnould,Weedman,Senior Staff,1989-07-28,9999-01-01
+90077,Vivian,Guerreiro,Engineer,1998-07-08,9999-01-01
+90084,Renny,Bale,Senior Engineer,1996-11-22,9999-01-01
+90211,Bader,Denis,Engineer,1997-10-06,9999-01-01
+90292,Koichi,Assaf,Senior Engineer,1998-05-26,9999-01-01
+90518,Fumiko,Chepyzhov,Senior Staff,1997-01-27,9999-01-01
+90614,Yonghoan,Trogemann,Engineer,1997-09-23,9999-01-01
+90692,Rajmohan,DasSarma,Senior Staff,1990-09-14,9999-01-01
+91172,Kazuhisa,Melter,Senior Staff,1993-07-15,9999-01-01
+91182,Lucien,Schwartzburd,Senior Engineer,1994-08-25,9999-01-01
+91229,Yahiko,Hebden,Senior Engineer,2001-10-03,9999-01-01
+91256,Gunilla,Milicic,Staff,1998-01-09,9999-01-01
+91333,Lobel,Stafford,Staff,1998-11-29,9999-01-01
+91415,Jamaludin,Nilsson,Senior Staff,1994-01-15,9999-01-01
+91648,Dmitry,Msuda,Senior Staff,1997-10-22,9999-01-01
+92438,Aria,Kilgore,Senior Engineer,1996-02-28,9999-01-01
+92454,Visit,McFarlan,Senior Engineer,1996-10-21,9999-01-01
+92577,Zhanqiu,Farrow,Assistant Engineer,1999-01-10,9999-01-01
+92598,Ranga,Merro,Assistant Engineer,1996-05-11,9999-01-01
+92685,Mang,Atchley,Senior Staff,1995-06-07,9999-01-01
+92841,Claude,Candan,Senior Staff,1993-08-04,9999-01-01
+92846,Anyuan,Kropatsch,Senior Staff,1993-09-05,9999-01-01
+92920,Huei,Hutter,Senior Engineer,2000-01-29,9999-01-01
+93040,Jaques,Kabayashi,Senior Engineer,1992-03-13,9999-01-01
+93220,Richara,Walston,Senior Engineer,1996-08-27,9999-01-01
+93278,Magdalena,Penn,Senior Engineer,2002-01-04,9999-01-01
+93549,Arie,Coullard,Senior Staff,1998-04-15,9999-01-01
+93600,Kristina,Neimat,Technique Leader,1988-04-18,9999-01-01
+94331,Ramzi,Cronau,Technique Leader,1999-09-03,9999-01-01
+94416,Aran,Cesareni,Senior Staff,1990-02-10,9999-01-01
+94761,Hitofumi,Zaccaria,Senior Engineer,1997-11-22,9999-01-01
+94944,Heping,Matheson,Senior Engineer,1997-06-24,9999-01-01
+95181,Yishai,Cappelli,Staff,1997-01-30,9999-01-01
+95286,Kristin,Guerreiro,Senior Engineer,1997-08-23,9999-01-01
+95314,Rasiah,Koblick,Senior Staff,1999-08-21,9999-01-01
+95406,Alair,Lyonns,Engineer,1997-07-12,9999-01-01
+95416,Gianluca,Ramaiah,Engineer,1993-11-29,9999-01-01
+95509,Kristinn,Loncour,Engineer,1995-02-08,9999-01-01
+95920,Nobuyoshi,Hegner,Senior Staff,2001-09-07,9999-01-01
+96571,Kokou,Garrabrants,Senior Engineer,1997-11-05,9999-01-01
+96579,Mohan,Tasistro,Engineer,1996-02-10,9999-01-01
+96767,Arumugam,Vecchio,Senior Engineer,1992-08-14,9999-01-01
+97018,Jeanna,Chinen,Senior Engineer,1994-01-01,9999-01-01
+97623,Haldon,Janetzko,Senior Staff,1996-09-10,9999-01-01
+97661,Avishai,Hegner,Senior Staff,2002-05-08,9999-01-01
+98288,Sumali,Huttel,Senior Staff,1997-09-12,9999-01-01
+98306,Ziya,Kadhim,Senior Engineer,1995-11-02,9999-01-01
+98639,Florina,Assaf,Staff,1996-05-18,9999-01-01
+99057,Shugo,Reeken,Staff,1999-06-21,9999-01-01
+99373,Xiaobin,Christianini,Senior Staff,1991-12-25,9999-01-01
+99377,Carrsten,Francisci,Senior Engineer,1991-06-16,9999-01-01
+99590,Dhritiman,Anily,Staff,1998-12-16,9999-01-01
+99654,Mahendra,Motley,Senior Staff,1992-09-28,9999-01-01
+100865,Hisao,Peral,Senior Engineer,1998-10-03,9999-01-01
+100916,Heejo,Aamodt,Senior Engineer,2001-04-22,9999-01-01
+101487,Abdelaziz,Sury,Senior Staff,1999-01-31,9999-01-01
+101647,Mori,Homond,Senior Staff,2000-05-09,9999-01-01
+101902,Mantis,Millington,Senior Staff,1997-03-17,9999-01-01
+102620,Adin,Templeman,Engineer,1997-12-10,9999-01-01
+103196,Djenana,Albarhamtoshy,Senior Staff,1993-07-16,9999-01-01
+103310,Visit,Swen,Senior Staff,2000-10-01,9999-01-01
+103316,Susanne,Peternell,Senior Engineer,1999-07-27,9999-01-01
+103342,Beshir,Hellwagner,Engineer,1998-02-03,9999-01-01
+103756,Heping,Halloran,Engineer,2001-04-08,9999-01-01
+104133,Pranjal,Zyda,Senior Staff,1998-07-03,9999-01-01
+104845,Werner,Lodder,Senior Staff,1998-06-17,9999-01-01
+104988,Parviz,Litzler,Senior Engineer,1999-08-09,9999-01-01
+105342,Kwun,Reeker,Technique Leader,1999-07-29,9999-01-01
+105356,Diederik,Matzov,Senior Engineer,1996-05-12,9999-01-01
+105432,Mohamadou,Stafford,Senior Engineer,2000-09-11,9999-01-01
+105520,Haldun,Lienhardt,Senior Staff,1987-01-29,9999-01-01
+105731,Sachem,Cromarty,Engineer,1996-08-19,9999-01-01
+106096,Naftali,Schurmann,Senior Engineer,1999-12-03,9999-01-01
+106242,Nevio,Thisen,Senior Staff,1994-03-25,9999-01-01
+106695,Lijie,Garrabrants,Senior Staff,1990-10-02,9999-01-01
+106710,Babette,Anandan,Senior Staff,1993-11-22,9999-01-01
+107486,Siamak,Luiz,Senior Engineer,1987-02-11,9999-01-01
+107737,Fabrizio,Chleq,Senior Engineer,1999-07-31,9999-01-01
+107792,Shahab,Crooks,Senior Staff,2001-03-18,9999-01-01
+107828,Ramya,Walston,Senior Staff,1995-02-03,9999-01-01
+108091,Hisao,Ghemri,Senior Staff,1990-11-14,9999-01-01
+108198,Randi,Samarati,Senior Staff,1999-10-21,9999-01-01
+108316,Shai,Stellhorn,Senior Engineer,1992-05-21,9999-01-01
+108988,Oksana,Baek,Senior Staff,1997-07-20,9999-01-01
+109062,Jamaludin,Kandlur,Senior Engineer,1992-06-19,9999-01-01
+109211,Gor,Delgrande,Senior Engineer,2001-11-06,9999-01-01
+109252,Moty,Winter,Technique Leader,1991-04-28,9999-01-01
+109278,Bangqing,Schach,Senior Staff,1996-03-22,9999-01-01
+109552,Menkae,Etalle,Engineer,2002-05-21,9999-01-01
+109598,Stamatina,Auyong,Senior Staff,1988-07-05,9999-01-01
+109620,Mani,Cannata,Senior Staff,1995-06-21,9999-01-01
+109703,Arco,Walston,Engineer,1999-08-16,9999-01-01
+109741,Hatem,Fadgyas,Senior Engineer,1991-11-13,9999-01-01
+109953,Godehard,Chorvat,Senior Staff,1996-04-10,9999-01-01
+200267,Chuanti,Luff,Senior Staff,2000-09-20,9999-01-01
+200312,Akemi,Fujisaki,Senior Engineer,1998-06-25,9999-01-01
+200363,Kirk,Quaggetto,Senior Engineer,1995-06-30,9999-01-01
+200735,Dinah,Denos,Senior Staff,2001-09-21,9999-01-01
+200789,Susumu,Camurati,Senior Staff,1997-12-14,9999-01-01
+201229,Alejandra,Khasidashvili,Staff,1994-07-30,9999-01-01
+201708,Anneli,Perl,Senior Staff,2000-09-08,9999-01-01
+201709,Fan,Kakkad,Senior Staff,1993-02-24,9999-01-01
+201739,Genta,Terekhov,Assistant Engineer,1998-07-21,9999-01-01
+201801,Waiman,Genin,Senior Engineer,1995-10-30,9999-01-01
+201915,Sudharsan,DeMori,Senior Engineer,1997-03-30,9999-01-01
+202291,Ortrun,Schmiedel,Engineer,1997-07-18,9999-01-01
+202403,Gully,Perko,Engineer,1999-07-07,9999-01-01
+202414,Zvonko,Murthy,Senior Staff,1992-01-07,9999-01-01
+202552,Morris,Saoudi,Senior Engineer,1998-11-22,9999-01-01
+202826,Kerhong,Matzke,Senior Engineer,1993-11-14,9999-01-01
+202882,Isaac,Koshino,Senior Engineer,1995-09-28,9999-01-01
+202950,Giordano,Pietrzykowski,Senior Staff,1987-03-26,9999-01-01
+203474,Hugh,Jonsson,Senior Staff,1997-07-05,9999-01-01
+203495,Zongyan,Gips,Technique Leader,1997-05-31,9999-01-01
+203599,Ewing,DiGiano,Technique Leader,2000-02-01,9999-01-01
+203720,Sasan,Thimonier,Senior Staff,1996-08-21,9999-01-01
+203946,Yefim,Marwedel,Senior Staff,1999-03-30,9999-01-01
+204117,Jessie,Nooteboom,Staff,1999-08-13,9999-01-01
+204133,Susuma,Bergere,Senior Staff,1996-02-25,9999-01-01
+204246,Arve,Worfolk,Senior Staff,1990-04-01,9999-01-01
+204425,Gretta,Huttel,Senior Engineer,1990-10-08,9999-01-01
+204470,Hein,Lichtner,Senior Staff,2001-04-02,9999-01-01
+204471,Franziska,Maginnis,Senior Engineer,1992-02-17,9999-01-01
+204764,Susanne,Mandelberg,Senior Engineer,1996-11-01,9999-01-01
+205018,Yahiko,Awdeh,Engineer,1998-08-05,9999-01-01
+205085,Moni,Kornyak,Technique Leader,1991-09-26,9999-01-01
+205174,Leszek,Spinelli,Staff,1998-12-10,9999-01-01
+205500,Mary,Setiz,Senior Engineer,1989-01-13,9999-01-01
+205627,Stabislas,Broder,Senior Engineer,2001-07-16,9999-01-01
+205660,Kien,Barreiro,Staff,1997-08-25,9999-01-01
+205699,Youjian,Yetto,Senior Staff,2000-12-06,9999-01-01
+205789,Limsoon,Skafidas,Senior Staff,1999-08-10,9999-01-01
+205863,Aiichiro,Kusalik,Senior Engineer,1996-10-03,9999-01-01
+206748,Yucai,Fabrizio,Staff,1999-10-06,9999-01-01
+206836,Guadalupe,Pfau,Senior Staff,2001-03-22,9999-01-01
+206966,Tzu,Sichman,Senior Engineer,1992-11-16,9999-01-01
+207021,Jacqueline,Akaboshi,Engineer,1997-12-06,9999-01-01
+207068,Zhiguo,Ariola,Senior Staff,1994-09-07,9999-01-01
+207204,Kellie,Schrooten,Engineer,1999-01-17,9999-01-01
+207401,Shuji,Barbanera,Senior Staff,1993-08-09,9999-01-01
+207551,Baziley,Falck,Assistant Engineer,1995-02-18,9999-01-01
+207779,Chinya,Kamble,Senior Staff,1992-05-31,9999-01-01
+207980,Remko,Vieth,Senior Staff,1999-11-22,9999-01-01
+208147,Manu,Rothenberg,Senior Engineer,1995-12-07,9999-01-01
+208330,Shen,Flanders,Senior Staff,1997-07-03,9999-01-01
+208639,Larisa,Lukaszewicz,Senior Staff,1994-10-10,9999-01-01
+208653,Phillip,Schade,Senior Engineer,1998-03-03,9999-01-01
+208784,Pranjal,Juneja,Senior Engineer,1985-03-21,9999-01-01
+209101,Xinyu,Edelhoff,Senior Engineer,1997-10-26,9999-01-01
+209443,Krassimir,Garnier,Senior Staff,1998-01-26,9999-01-01
+209565,Dante,Covnot,Senior Staff,1998-05-28,9999-01-01
+209712,Nimmagadda,Baak,Engineer,1995-10-30,9999-01-01
+210017,Shalesh,Lovengreen,Senior Staff,1996-09-28,9999-01-01
+210292,Lihong,Zeilberger,Staff,1996-04-28,9999-01-01
+210449,Gino,Lagarias,Engineer,1997-06-22,9999-01-01
+210752,Saniya,Stenning,Senior Staff,1991-12-10,9999-01-01
+210786,Werner,Ranze,Staff,1998-06-05,9999-01-01
+211858,Domenico,Ratnaker,Senior Engineer,1993-03-24,9999-01-01
+211879,Gao,Ranze,Senior Engineer,1999-11-24,9999-01-01
+211967,Anwar,Bain,Senior Engineer,1998-01-22,9999-01-01
+212093,Leni,Henders,Senior Staff,1999-11-19,9999-01-01
+212154,Sailaja,Holburn,Senior Staff,1997-03-03,9999-01-01
+212361,Claudi,Stanfel,Senior Engineer,2001-01-06,9999-01-01
+213016,Yongmao,Fontan,Senior Engineer,1998-07-26,9999-01-01
+213140,Tru,Danecki,Staff,1997-03-31,9999-01-01
+213384,Pranas,Narwekar,Senior Engineer,1993-09-26,9999-01-01
+213447,Armond,Perly,Senior Engineer,1996-09-14,9999-01-01
+214215,Xiaoqiang,Cardazo,Senior Staff,1993-05-28,9999-01-01
+214391,Rayond,Klassen,Senior Staff,1999-09-11,9999-01-01
+214427,Peer,Molberg,Engineer,1996-11-17,9999-01-01
+214539,Ingmar,Kohling,Engineer,1995-04-25,9999-01-01
+214634,Shirish,Vickson,Senior Engineer,1997-10-24,9999-01-01
+214789,Arfst,Chepyzhov,Senior Engineer,1997-02-06,9999-01-01
+214866,Gopalakrishnan,Angel,Senior Engineer,2002-07-05,9999-01-01
+214995,Dinkar,Hoppenstand,Engineer,1994-05-04,9999-01-01
+215419,Flemming,Kroha,Staff,1995-01-23,9999-01-01
+215629,Munehiro,Manders,Senior Staff,1995-05-18,9999-01-01
+215746,Sven,Speer,Staff,1999-07-08,9999-01-01
+215843,Pramod,Loncour,Senior Staff,1993-03-30,9999-01-01
+216054,Sahrah,Angiulli,Senior Staff,1991-07-31,9999-01-01
+216342,Aiichiro,Cromarty,Senior Engineer,2000-06-09,9999-01-01
+216375,Byong,Gustavson,Senior Engineer,1985-03-12,9999-01-01
+216502,Xiaocheng,Suermann,Engineer,1997-12-15,9999-01-01
+216573,Ashish,Vidya,Senior Engineer,1995-06-16,9999-01-01
+216921,Lena,Lenart,Senior Staff,1995-12-25,9999-01-01
+217026,Otmar,Engberts,Senior Staff,1998-08-16,9999-01-01
+217080,Masami,Puoti,Senior Engineer,2000-01-21,9999-01-01
+217272,Yuchang,Eldridge,Senior Staff,1991-08-01,9999-01-01
+217286,Yannik,Spelt,Technique Leader,1992-09-22,9999-01-01
+217320,Abdelwaheb,Denis,Engineer,1993-09-10,9999-01-01
+217363,Horward,Marzano,Staff,1996-04-11,9999-01-01
+217387,Jianhao,Molenaar,Senior Engineer,1994-10-22,9999-01-01
+217551,Panayotis,Lukaszewicz,Senior Engineer,1995-06-06,9999-01-01
+217800,Shay,Servieres,Senior Staff,1998-08-06,9999-01-01
+218022,Mokhtar,Poupard,Technique Leader,1992-02-02,9999-01-01
+218100,Jiong,Garnham,Senior Staff,1999-01-02,9999-01-01
+218831,Unal,DuBourdieux,Engineer,1996-03-13,9999-01-01
+219035,Kristine,Bierman,Technique Leader,1988-05-13,9999-01-01
+219047,Aemilian,Kusalik,Senior Engineer,1995-05-27,9999-01-01
+219052,Marsal,Acton,Staff,1995-08-02,9999-01-01
+219417,Subhrajyoti,Denna,Staff,1996-07-25,9999-01-01
+219497,Moie,Zastre,Technique Leader,1991-10-11,9999-01-01
+219967,Susanna,Reeken,Senior Staff,1998-03-16,9999-01-01
+220029,Demos,Asser,Senior Engineer,1985-11-04,9999-01-01
+220131,Reinhard,Slaats,Senior Engineer,1999-06-08,9999-01-01
+220418,Poorav,Laventhal,Staff,1997-08-16,9999-01-01
+220528,Sibyl,Rabehasaina,Senior Staff,1998-02-23,9999-01-01
+220582,Poornachandra,Zielinski,Senior Staff,2001-02-12,9999-01-01
+220611,Yuping,Babb,Senior Staff,2002-01-31,9999-01-01
+220625,Shigenori,Deville,Technique Leader,1992-12-24,9999-01-01
+220699,Nahid,Gyimothy,Staff,1995-08-18,9999-01-01
+220799,Perla,Orlowska,Senior Engineer,1990-12-03,9999-01-01
+221126,Tesuya,dAstous,Senior Engineer,1995-11-30,9999-01-01
+221367,Saddek,Farris,Senior Staff,1990-11-06,9999-01-01
+221369,Abdulah,Pocchiola,Engineer,1996-08-28,9999-01-01
+221435,Djenana,Marrevee,Senior Engineer,2000-02-06,9999-01-01
+221973,Sangeeta,Kalefeld,Senior Staff,1996-06-05,9999-01-01
+222206,Stein,Uludag,Senior Staff,1995-01-30,9999-01-01
+222311,Miyeon,Billingsley,Senior Engineer,1992-12-05,9999-01-01
+222319,Matt,Chvatal,Senior Engineer,1994-11-09,9999-01-01
+222354,Valdiodio,Schlumberger,Engineer,2001-08-07,9999-01-01
+222616,Badri,Schapire,Assistant Engineer,1998-01-19,9999-01-01
+222770,Kazuhiko,Kushner,Senior Engineer,1995-08-01,9999-01-01
+222878,Annemarie,Zallocco,Senior Engineer,1996-05-27,9999-01-01
+222926,Limsoon,Erol,Senior Engineer,1997-12-31,9999-01-01
+222952,Gopalakrishnan,Suermann,Senior Engineer,1998-04-30,9999-01-01
+222998,Leaf,Awdeh,Senior Staff,1991-02-20,9999-01-01
+223593,Hidefumi,Moehrke,Staff,1998-03-04,9999-01-01
+223595,Chiranjit,Dredge,Technique Leader,1999-09-05,9999-01-01
+224135,Annemarie,Bressoud,Engineer,1998-06-23,9999-01-01
+224335,Perry,Chachaty,Senior Engineer,1992-07-22,9999-01-01
+224390,True,Shobatake,Senior Staff,1996-05-17,9999-01-01
+224934,George,Miake,Senior Staff,1996-01-02,9999-01-01
+225438,Remmert,Quaggetto,Senior Staff,1997-04-28,9999-01-01
+225601,Masasuke,Genin,Engineer,1999-06-25,9999-01-01
+225788,Ipke,Kieras,Engineer,1995-12-18,9999-01-01
+225867,Ramalingam,Remmele,Senior Engineer,1999-09-03,9999-01-01
+225964,Mooi,Cooman,Senior Engineer,1998-06-07,9999-01-01
+226216,Giordano,Gini,Technique Leader,1993-08-14,9999-01-01
+226227,Herbert,Erva,Senior Engineer,1995-09-06,9999-01-01
+227354,Gio,Murtha,Senior Engineer,1994-11-11,9999-01-01
+227476,Macha,Schnabel,Senior Engineer,1996-05-11,9999-01-01
+227681,Mikhail,Rousseau,Staff,1998-11-30,9999-01-01
+227899,Garnik,Luce,Staff,1998-09-15,9999-01-01
+227901,Francesca,Azuma,Senior Staff,2001-06-08,9999-01-01
+228098,IEEE,Kroll,Engineer,1997-05-10,9999-01-01
+228248,Yuriy,Plump,Senior Staff,1995-09-09,9999-01-01
+228554,Bilhanan,Brendel,Senior Staff,1990-12-23,9999-01-01
+228766,Nahla,Smailagic,Senior Engineer,1996-11-21,9999-01-01
+229098,Berry,Yurek,Senior Staff,1995-08-16,9999-01-01
+229220,Fabrizio,Lichtman,Senior Engineer,1992-02-09,9999-01-01
+229248,Harjit,Terekhov,Staff,1995-10-19,9999-01-01
+229386,Pohua,Tasistro,Technique Leader,1989-06-02,9999-01-01
+229391,Paloma,Henseler,Senior Engineer,1997-06-10,9999-01-01
+229404,Gilbert,Kilgour,Staff,1996-04-05,9999-01-01
+229547,Moni,Schach,Senior Staff,1991-07-04,9999-01-01
+229727,Ewing,Millington,Engineer,1999-09-28,9999-01-01
+229981,Jamaludin,Fordan,Senior Engineer,2001-02-05,9999-01-01
+230002,Tadahiro,Backhouse,Senior Engineer,1999-10-02,9999-01-01
+230126,Bezalel,Radivojevic,Senior Staff,1995-07-03,9999-01-01
+230287,Renny,Alameldin,Assistant Engineer,1997-09-28,9999-01-01
+230354,Yinghua,Lorho,Senior Staff,2000-08-08,9999-01-01
+230498,Kolar,Puppo,Senior Engineer,1998-04-25,9999-01-01
+230579,Shahar,Negoita,Senior Staff,2000-03-18,9999-01-01
+230689,Dietrich,Crabtree,Senior Staff,1986-05-24,9999-01-01
+230865,Takushi,Brattka,Staff,1999-03-09,9999-01-01
+231069,Trygve,Siksek,Staff,1995-11-09,9999-01-01
+231459,Nectarios,Pramanik,Assistant Engineer,1999-11-18,9999-01-01
+231671,Chandrasekaran,Pearson,Staff,1995-04-14,9999-01-01
+231798,Goetz,Alvarado,Senior Engineer,1997-12-25,9999-01-01
+232178,Etsuo,Anandan,Senior Staff,1996-12-13,9999-01-01
+232209,Nitsan,Rouquie,Senior Engineer,1995-08-02,9999-01-01
+232697,Barry,Ramsak,Senior Engineer,1999-09-07,9999-01-01
+232723,Tesuya,Bugrara,Engineer,2002-02-13,9999-01-01
+233114,Alselm,Gargeya,Senior Engineer,1987-12-25,9999-01-01
+233394,Khalid,Lenart,Engineer,1995-12-24,9999-01-01
+233397,Fay,Sundgren,Senior Staff,1998-07-07,9999-01-01
+233426,Etsuo,Usery,Senior Engineer,2000-03-01,9999-01-01
+233690,Cedric,Riefers,Engineer,1994-09-08,9999-01-01
+233759,Zissis,Lodder,Engineer,1999-09-25,9999-01-01
+233765,Kotesh,Chachaty,Senior Engineer,1997-03-24,9999-01-01
+233785,Baziley,Ballarin,Senior Staff,1995-07-28,9999-01-01
+233818,Kellie,Heydon,Senior Engineer,1991-11-11,9999-01-01
+234195,Luerbio,Terkki,Senior Staff,1998-05-14,9999-01-01
+234739,Foong,Aamodt,Senior Engineer,1986-06-28,9999-01-01
+235017,Irena,Dratva,Senior Staff,1999-09-07,9999-01-01
+235096,Sverrir,Gyimothy,Senior Staff,1992-03-20,9999-01-01
+235325,Gro,Prochazka,Senior Engineer,1998-10-16,9999-01-01
+235368,Anneli,Joslin,Senior Engineer,1987-04-12,9999-01-01
+235458,Gio,Heuser,Senior Staff,1999-06-29,9999-01-01
+235729,Henk,Anger,Senior Staff,2002-01-19,9999-01-01
+235780,Sampalli,Bergere,Senior Engineer,1994-04-08,9999-01-01
+235793,Jayesh,Spinelli,Senior Engineer,1992-07-18,9999-01-01
+236315,IEEE,Raczkowsky,Technique Leader,1996-07-24,9999-01-01
+236566,Yechezkel,Maginnis,Senior Staff,2000-12-11,9999-01-01
+236591,Insup,Reinhard,Senior Staff,1993-04-08,9999-01-01
+236827,Almudena,Rijckaert,Senior Engineer,1999-02-16,9999-01-01
+236883,Huan,Olivero,Staff,1999-11-19,9999-01-01
+236964,Adel,Foote,Staff,1998-08-19,9999-01-01
+238112,Miomir,Frezza,Technique Leader,1991-05-25,9999-01-01
+238252,Uno,Suppi,Staff,1996-12-27,9999-01-01
+238422,Vishv,Angelov,Senior Staff,1996-03-08,9999-01-01
+238949,Minghong,Cronin,Senior Staff,1987-10-04,9999-01-01
+239067,Tadahiko,Pocchiola,Staff,1996-04-02,9999-01-01
+239244,Abdulla,Kitai,Senior Staff,1996-02-20,9999-01-01
+239415,Susumu,Brender,Senior Engineer,2001-04-17,9999-01-01
+239426,Vesna,Fairtlough,Engineer,1994-08-09,9999-01-01
+239664,Sugwoo,Michaels,Senior Engineer,1999-08-03,9999-01-01
+239706,Arunas,Bugrara,Assistant Engineer,1997-04-03,9999-01-01
+239748,Bilhanan,Dusink,Senior Staff,1996-06-04,9999-01-01
+239803,Oscal,Ernst,Senior Staff,1997-05-19,9999-01-01
+240132,Mizuhito,Kobara,Senior Staff,2001-08-09,9999-01-01
+240236,True,Tischendorf,Senior Engineer,1992-01-19,9999-01-01
+240285,Kolar,Greenaway,Staff,1998-11-14,9999-01-01
+240340,Mack,Staylopatis,Senior Engineer,1991-04-02,9999-01-01
+240438,Temple,Cyre,Senior Staff,1999-10-01,9999-01-01
+240870,Francesca,Chorvat,Senior Staff,1993-03-03,9999-01-01
+241100,Cedric,Molenaar,Senior Engineer,1999-10-06,9999-01-01
+241254,Jagoda,Anguita,Senior Engineer,1993-05-11,9999-01-01
+241292,Uri,Lampe,Senior Staff,1994-10-17,9999-01-01
+241567,Emran,Miara,Senior Engineer,1995-05-02,9999-01-01
+241667,Atilio,Olivero,Senior Engineer,1992-09-04,9999-01-01
+241728,Limsoon,Boudaillier,Senior Engineer,1995-08-12,9999-01-01
+241872,Bluma,Fetvedt,Senior Staff,1997-02-02,9999-01-01
+242019,Herb,Murrill,Senior Engineer,1999-09-27,9999-01-01
+242081,Tomokazu,Pargas,Engineer,2001-11-15,9999-01-01
+242104,Richara,Sudkamp,Senior Staff,1994-09-05,9999-01-01
+242500,Bingning,Iisaku,Senior Staff,1997-06-26,9999-01-01
+242800,Kazuyasu,Levergood,Engineer,1996-02-10,9999-01-01
+243018,Bowen,Deverell,Senior Staff,1998-12-27,9999-01-01
+243077,Kazunori,Perz,Senior Engineer,1999-02-25,9999-01-01
+243576,Abdulah,Lodder,Senior Staff,2001-11-10,9999-01-01
+243637,Marjo,Delgrange,Senior Staff,1996-06-23,9999-01-01
+243898,Arch,Basawa,Staff,1998-05-10,9999-01-01
+244308,Mokhtar,Rebaine,Senior Staff,2000-07-22,9999-01-01
+244605,Masoud,Suwa,Senior Staff,1997-11-25,9999-01-01
+244624,Boaz,Seuren,Senior Staff,1994-03-27,9999-01-01
+244711,Rosli,Butner,Engineer,1997-03-19,9999-01-01
+244714,Poorav,Clouatre,Senior Engineer,1996-05-06,9999-01-01
+244820,Shigenori,Hertweck,Senior Engineer,1994-04-13,9999-01-01
+244873,Arunachalam,Oppitz,Senior Staff,1994-05-20,9999-01-01
+245164,Filipp,Winter,Senior Engineer,2001-10-24,9999-01-01
+245396,Gift,Bottner,Senior Staff,2002-03-04,9999-01-01
+245664,Manohar,Kilgore,Staff,1998-11-17,9999-01-01
+246146,Zhongwei,Melski,Senior Engineer,1993-09-03,9999-01-01
+246244,George,Casperson,Staff,2000-01-20,9999-01-01
+246364,Alper,Tiemann,Engineer,1998-10-29,9999-01-01
+246764,Shuzo,Czaja,Staff,1997-11-29,9999-01-01
+246798,Tianruo,Strooper,Senior Staff,1999-10-28,9999-01-01
+246902,Shih,Shanbhogue,Staff,1998-04-19,9999-01-01
+247089,Seongbae,Schahn,Senior Staff,1997-12-10,9999-01-01
+247122,Xiaobin,Narlikar,Senior Staff,1999-02-14,9999-01-01
+247447,Tzu,Bakhtari,Senior Engineer,1999-03-18,9999-01-01
+247456,Masako,Bahk,Engineer,1997-07-31,9999-01-01
+247612,Chiranjit,Constantine,Engineer,1997-05-25,9999-01-01
+247875,Xiong,Anick,Senior Staff,1991-04-23,9999-01-01
+247888,Abdelghani,Lagarias,Senior Engineer,1992-09-06,9999-01-01
+248256,Sajjan,Falby,Staff,1996-08-29,9999-01-01
+248351,Jaana,Milicia,Senior Staff,1985-06-02,9999-01-01
+248758,Snehasis,Muhlberg,Senior Staff,1999-07-16,9999-01-01
+248953,Percy,Sudbeck,Assistant Engineer,1996-08-29,9999-01-01
+249239,Hideyuki,Decleir,Senior Engineer,1994-05-04,9999-01-01
+249325,Ute,Pokrovskii,Staff,1997-06-09,9999-01-01
+249433,Ayonca,Matzov,Senior Engineer,1997-06-03,9999-01-01
+249504,Dmitry,Velardi,Senior Engineer,2000-02-29,9999-01-01
+249780,Nechama,Gaughan,Senior Engineer,1996-01-16,9999-01-01
+249799,Jolita,Neimat,Senior Engineer,1999-12-27,9999-01-01
+249866,Steen,Gubsky,Senior Staff,1998-01-14,9999-01-01
+249969,Georgi,Luiz,Senior Engineer,1999-06-10,9999-01-01
+250411,Ranga,Sommen,Senior Staff,1996-01-21,9999-01-01
+250452,Alexius,Plavsic,Senior Engineer,2000-01-17,9999-01-01
+250748,Kish,Turnbull,Senior Engineer,1994-02-10,9999-01-01
+251166,Hinrich,Hooghiemstra,Senior Staff,1993-10-05,9999-01-01
+251233,Yucel,Bernini,Senior Engineer,1998-02-19,9999-01-01
+251301,Pintsang,Impagliazzo,Senior Staff,1989-05-06,9999-01-01
+251341,Divier,Kumaresan,Senior Staff,1998-12-05,9999-01-01
+251403,Utpal,DuBourdieux,Technique Leader,1997-11-19,9999-01-01
+251437,Shichao,Iwayama,Engineer,1996-10-17,9999-01-01
+251645,Bezalel,Tsunoo,Senior Staff,2001-06-17,9999-01-01
+251680,Moty,Sommen,Senior Engineer,1990-08-14,9999-01-01
+251814,Mitsuyuki,Zockler,Technique Leader,1998-09-14,9999-01-01
+252185,Chaosheng,Conta,Engineer,2002-04-14,9999-01-01
+252316,Gill,Niizuma,Senior Engineer,1999-10-08,9999-01-01
+252392,Sanjeeva,Peron,Senior Engineer,1999-12-26,9999-01-01
+253029,Thodoros,Thimonier,Engineer,1995-04-05,9999-01-01
+253707,Insup,Hainaut,Staff,1998-02-11,9999-01-01
+253838,Stafford,Terlouw,Assistant Engineer,1999-02-21,9999-01-01
+253893,Huiqun,Trystram,Senior Engineer,1993-05-10,9999-01-01
+254044,Gunilla,Brendel,Senior Engineer,2000-04-10,9999-01-01
+254399,Armond,Lores,Technique Leader,1999-09-16,9999-01-01
+254821,Tonny,Couchot,Staff,1994-12-12,9999-01-01
+255466,Huan,Roccetti,Senior Engineer,1985-07-03,9999-01-01
+255657,Oldrich,Cyre,Senior Engineer,1994-02-10,9999-01-01
+255779,Heejo,Merle,Technique Leader,1997-09-04,9999-01-01
+256216,Halsur,Brodal,Engineer,1997-11-22,9999-01-01
+256856,Hongzue,Barbanera,Senior Staff,1995-06-17,9999-01-01
+256881,Ioana,Jakobus,Senior Engineer,1999-08-10,9999-01-01
+256888,Heather,Pehl,Staff,1993-09-15,9999-01-01
+257062,Stabislas,Pardalos,Senior Engineer,1997-06-21,9999-01-01
+257378,Pascal,Bernatsky,Senior Staff,1995-09-04,9999-01-01
+257469,Anyuan,Hanratty,Senior Staff,1996-01-06,9999-01-01
+257484,Shaowei,Nicolson,Senior Staff,1995-12-07,9999-01-01
+258028,Mountaz,Reinhart,Engineer,2000-01-21,9999-01-01
+258124,Mariusz,Zolotykh,Senior Staff,1990-07-28,9999-01-01
+258470,Weiwu,Butner,Staff,1995-02-14,9999-01-01
+258643,Przemyslawa,Esposito,Senior Engineer,2001-02-26,9999-01-01
+259042,Xiaoqiang,Farrow,Staff,1997-01-01,9999-01-01
+259237,Palash,Gammage,Senior Staff,1994-10-23,9999-01-01
+259273,Xiahua,Gomatam,Senior Engineer,1989-12-01,9999-01-01
+259611,Shuichi,Marrakchi,Senior Staff,1990-08-21,9999-01-01
+259619,Conal,Magliocco,Senior Staff,1992-05-09,9999-01-01
+259718,Stepehn,Bouloucos,Senior Staff,1997-09-16,9999-01-01
+260153,Mingdong,Baar,Technique Leader,1991-10-14,9999-01-01
+260249,Vugranam,Beausoleil,Staff,1998-05-14,9999-01-01
+260361,Reinhold,Rahier,Engineer,1995-06-06,9999-01-01
+260399,Hatem,Birsak,Senior Staff,1995-04-10,9999-01-01
+260408,Sasan,Brookner,Senior Staff,2001-09-03,9999-01-01
+260501,Dzung,Pargas,Technique Leader,1990-05-17,9999-01-01
+261184,Masako,Kornatzky,Senior Engineer,1987-08-29,9999-01-01
+261631,Jianhua,Huttel,Engineer,1998-02-23,9999-01-01
+261662,Berni,Assaf,Senior Staff,1989-09-08,9999-01-01
+261737,Mark,Lindqvist,Senior Engineer,1997-11-22,9999-01-01
+261986,Gila,Ramsak,Senior Engineer,1997-05-13,9999-01-01
+261990,Volkmar,Czaja,Senior Staff,1998-04-01,9999-01-01
+262208,Mrinalini,Holburn,Senior Staff,1987-04-20,9999-01-01
+262210,Chinho,Bottner,Senior Engineer,1999-07-30,9999-01-01
+262328,Mayuko,Vural,Staff,1997-12-24,9999-01-01
+262439,Lorien,Lagarias,Senior Staff,1994-10-10,9999-01-01
+262636,Tamiya,Reutenauer,Senior Engineer,1985-06-02,9999-01-01
+262752,Pramod,Bierman,Engineer,1997-12-12,9999-01-01
+262928,Piyush,Gill,Senior Engineer,1998-08-31,9999-01-01
+263012,Hideo,Buchter,Staff,1999-05-01,9999-01-01
+263186,Danny,Lowrie,Technique Leader,1995-09-13,9999-01-01
+263370,Shakhar,Ranze,Staff,1999-05-29,9999-01-01
+263439,Atreye,Kabayashi,Senior Engineer,1986-12-15,9999-01-01
+263645,Mingsen,Lally,Senior Engineer,1990-12-04,9999-01-01
+263649,Mechthild,Zongker,Senior Staff,1993-07-26,9999-01-01
+263926,Fusako,Schwartzbauer,Senior Staff,1993-04-07,9999-01-01
+264030,Zdislav,Solares,Engineer,1998-12-14,9999-01-01
+264167,Baoqiu,Tomescu,Senior Engineer,1996-05-01,9999-01-01
+264322,Leandro,Swist,Senior Staff,1997-01-05,9999-01-01
+264626,Noritoshi,Bakhtari,Senior Staff,1998-02-03,9999-01-01
+264939,Bogdan,Bahi,Senior Engineer,1992-02-10,9999-01-01
+265039,Navid,Staudhammer,Senior Staff,2000-10-18,9999-01-01
+265521,Kensei,Salverda,Senior Engineer,2001-05-25,9999-01-01
+265558,Susuma,Kleiser,Senior Staff,1994-08-02,9999-01-01
+265794,Miquel,Halloran,Senior Staff,2002-01-14,9999-01-01
+265875,Fan,Marsiglia,Senior Engineer,1997-09-03,9999-01-01
+266206,Zsolt,Anily,Senior Staff,1991-08-19,9999-01-01
+266249,Sumant,Nishimukai,Senior Staff,1991-03-28,9999-01-01
+266310,Zvonko,Serdy,Senior Staff,1992-06-23,9999-01-01
+266644,Anwar,Gubsky,Senior Staff,1999-08-09,9999-01-01
+266862,Mart,Plumb,Senior Staff,1986-04-21,9999-01-01
+266881,Mokhtar,Sabnani,Senior Staff,1997-08-28,9999-01-01
+267059,Moie,Tempesti,Senior Staff,2000-06-28,9999-01-01
+267227,Susuma,Tagansky,Senior Engineer,2001-01-21,9999-01-01
+267304,Jordanka,Axelband,Senior Staff,1994-06-27,9999-01-01
+267667,Irena,Kaiserswerth,Senior Staff,1994-09-05,9999-01-01
+268043,Narain,Mikschl,Engineer,1997-11-02,9999-01-01
+268191,LiMin,Teitelbaum,Senior Engineer,1995-11-01,9999-01-01
+269728,Naftali,Kragelund,Senior Staff,1993-05-15,9999-01-01
+270084,Ulises,Frolund,Senior Staff,1993-07-26,9999-01-01
+270716,Shunichi,Baer,Staff,1998-02-04,9999-01-01
+270794,Dannz,Zhang,Senior Staff,1991-06-26,9999-01-01
+271106,Taisook,Kampfer,Engineer,1997-11-30,9999-01-01
+271219,Odoardo,Tyugu,Engineer,1994-11-07,9999-01-01
+272141,Tsutomu,Neiman,Senior Staff,1993-05-05,9999-01-01
+272285,Gully,Mitchem,Senior Staff,1995-01-22,9999-01-01
+272316,Surveyors,Muhling,Engineer,1999-07-19,9999-01-01
+272452,Mitsuyuki,Isard,Engineer,1996-08-17,9999-01-01
+272599,Holgard,Hegner,Senior Staff,1998-07-15,9999-01-01
+272860,Minghong,Candan,Assistant Engineer,1994-02-10,9999-01-01
+273159,Divine,Hofmeyr,Technique Leader,1989-04-14,9999-01-01
+273286,Brigham,Asmuth,Senior Engineer,1996-01-24,9999-01-01
+273396,Wayne,Baba,Engineer,1998-03-07,9999-01-01
+273806,Hongzhu,Beetstra,Senior Staff,2000-01-24,9999-01-01
+273858,Gunilla,Matzen,Senior Staff,1995-12-28,9999-01-01
+274071,Mingsen,Weiland,Staff,1995-10-12,9999-01-01
+274271,Prodip,Ritcey,Senior Staff,1993-09-10,9999-01-01
+274369,Ranga,Waymire,Senior Staff,1997-01-27,9999-01-01
+274813,Yefim,Pettey,Senior Staff,2000-08-07,9999-01-01
+275158,Satyanarayana,Brandsma,Engineer,1999-12-08,9999-01-01
+275263,Vojin,Laventhal,Senior Engineer,1999-10-18,9999-01-01
+275444,Limsoon,Leppanen,Senior Engineer,2000-01-22,9999-01-01
+275495,Shen,Yamaashi,Staff,1995-02-19,9999-01-01
+275801,Ayakannu,Heinisuo,Senior Staff,1986-06-28,9999-01-01
+275881,Jiann,Munro,Senior Engineer,1988-05-18,9999-01-01
+275994,Uma,Prampolini,Senior Engineer,1998-02-21,9999-01-01
+276027,Holgard,Stavenow,Senior Staff,1995-02-28,9999-01-01
+276184,Mari,Swick,Senior Staff,1991-04-08,9999-01-01
+276186,Sajjad,Vecchi,Senior Staff,1998-06-02,9999-01-01
+276189,Isaac,Klerer,Senior Staff,2000-03-18,9999-01-01
+276445,Atilio,Randi,Senior Engineer,1994-07-02,9999-01-01
+276472,Hideyuki,Flanders,Senior Engineer,1994-11-10,9999-01-01
+276563,Gift,Solares,Senior Staff,1995-08-01,9999-01-01
+276868,Alois,Sanella,Staff,1998-03-13,9999-01-01
+277316,Vitali,Rothenberg,Senior Staff,1998-10-04,9999-01-01
+277362,Uzi,Kugler,Senior Staff,1991-01-12,9999-01-01
+277420,Rayond,Schach,Senior Engineer,2001-04-21,9999-01-01
+277777,Herbert,Itzigehl,Senior Engineer,1990-07-04,9999-01-01
+277829,Michaela,Fandrianto,Senior Engineer,1986-06-02,9999-01-01
+278239,Boaz,Bottner,Staff,1994-02-06,9999-01-01
+278386,Caolyn,Poujol,Technique Leader,1995-12-03,9999-01-01
+278452,Sudhanshu,Toyoshima,Senior Staff,1993-08-28,9999-01-01
+278536,Munenori,Shobatake,Senior Staff,1999-01-10,9999-01-01
+278549,Jaana,Werthner,Senior Staff,1997-07-27,9999-01-01
+278953,Jeanna,Ghandeharizadeh,Senior Engineer,1990-08-11,9999-01-01
+279115,Maren,DuCasse,Engineer,1997-11-29,9999-01-01
+279280,Niranjan,Debuse,Senior Engineer,2001-09-21,9999-01-01
+279791,Chiranjit,Lyonns,Engineer,1995-12-24,9999-01-01
+280070,Niteen,Ebeling,Senior Staff,1993-03-29,9999-01-01
+280291,Lenore,Badache,Staff,1998-11-24,9999-01-01
+280420,Jahangir,Hofting,Senior Staff,1993-09-28,9999-01-01
+280525,Kish,Herbst,Staff,1996-08-18,9999-01-01
+280648,Heeju,Lorys,Senior Engineer,1992-12-26,9999-01-01
+281570,Zijian,Covnot,Assistant Engineer,1994-09-13,9999-01-01
+281692,Khosrow,Sommen,Senior Engineer,1990-03-03,9999-01-01
+281848,Parke,Staylopatis,Senior Engineer,1999-07-31,9999-01-01
+281859,Masanao,Papastamatiou,Senior Engineer,1993-11-25,9999-01-01
+282191,Alper,Shinomoto,Engineer,1997-10-20,9999-01-01
+282333,Nahla,Serdy,Senior Staff,2000-09-09,9999-01-01
+282343,Xinglin,Haldar,Senior Staff,1993-07-20,9999-01-01
+282547,Nahum,Codenie,Engineer,1999-06-14,9999-01-01
+282585,Zijian,Lammel,Staff,1996-07-01,9999-01-01
+282894,Fay,Bellmore,Senior Engineer,1998-05-03,9999-01-01
+284300,Ishfaq,Mahmud,Senior Staff,1996-11-28,9999-01-01
+284431,Pintsang,Fujisawa,Senior Staff,2002-04-16,9999-01-01
+284561,Duri,Beznosov,Senior Engineer,1988-02-15,9999-01-01
+284687,Oksana,Redmiles,Senior Engineer,1992-06-22,9999-01-01
+284691,Theron,Ressouche,Senior Engineer,1994-08-17,9999-01-01
+284711,Martijn,Azevdeo,Senior Engineer,1988-02-10,9999-01-01
+284717,Gal,Ranta,Senior Engineer,1997-11-07,9999-01-01
+284856,Moto,Kobara,Senior Engineer,1998-12-12,9999-01-01
+284954,Anneke,Hammerschmidt,Engineer,1996-01-30,9999-01-01
+285164,Xiaocheng,Kumaresan,Staff,1994-10-03,9999-01-01
+285396,Lena,Kohling,Senior Engineer,1991-10-04,9999-01-01
+285905,Kellyn,Bage,Senior Staff,1994-11-04,9999-01-01
+285906,Arnould,Buescher,Engineer,1998-03-26,9999-01-01
+286026,Utpal,Zaumen,Senior Staff,1997-02-24,9999-01-01
+286029,Jaques,Nanard,Staff,1996-07-16,9999-01-01
+286370,Toshimitsu,Seuren,Senior Staff,2000-01-19,9999-01-01
+286452,Behnaam,Bierbaum,Engineer,1999-01-31,9999-01-01
+286573,Nahum,Nishimukai,Senior Engineer,1997-02-01,9999-01-01
+286779,Sigeru,Versino,Engineer,1998-08-31,9999-01-01
+286986,Woody,Trelles,Senior Engineer,1996-05-23,9999-01-01
+287323,Steve,Dengi,Staff,1999-09-15,9999-01-01
+287327,Youjian,Felder,Senior Staff,2000-07-15,9999-01-01
+287334,Elliott,Speer,Engineer,1998-08-08,9999-01-01
+287482,Shigeaki,Gihr,Senior Engineer,2002-03-18,9999-01-01
+287583,Jovan,Hockney,Senior Engineer,1997-06-21,9999-01-01
+287609,Sailaja,Negoita,Senior Engineer,2000-01-19,9999-01-01
+287713,Aamod,Ranka,Senior Staff,1992-12-07,9999-01-01
+287808,Vidar,Ozeki,Technique Leader,1996-06-17,9999-01-01
+287983,Randi,Munos,Senior Staff,1990-09-07,9999-01-01
+287984,Troy,Kobuchi,Senior Engineer,1999-02-12,9999-01-01
+288028,Kauko,Narwekar,Senior Engineer,1994-12-16,9999-01-01
+288142,Shay,Heystek,Senior Staff,1995-04-01,9999-01-01
+288166,Masoud,Asmuth,Staff,1994-09-05,9999-01-01
+288560,Yifei,Birjandi,Senior Staff,1999-02-07,9999-01-01
+288563,Cristinel,Gerlach,Senior Engineer,2001-01-08,9999-01-01
+288606,Susumu,Swiss,Senior Staff,1996-11-14,9999-01-01
+288665,Horward,Khasidashvili,Senior Engineer,1998-11-19,9999-01-01
+288893,Bedrich,Rosenbaum,Senior Engineer,1998-01-27,9999-01-01
+289454,Bowen,Narwekar,Senior Engineer,1985-03-08,9999-01-01
+289687,Fai,Maccarone,Senior Staff,1993-10-30,9999-01-01
+289807,Soenke,Lemarechal,Senior Staff,2000-09-03,9999-01-01
+289909,Hilari,Vecchio,Senior Staff,1998-04-24,9999-01-01
+290009,Zijian,Rindone,Senior Staff,1997-07-09,9999-01-01
+290075,Boalin,Byoun,Senior Staff,1996-09-30,9999-01-01
+290284,Kwangjo,Menhardt,Engineer,1996-01-11,9999-01-01
+290441,Gregory,Collavizza,Senior Staff,1993-09-08,9999-01-01
+290467,Shaowen,Poulakidas,Senior Staff,1992-04-14,9999-01-01
+290478,Tsvetan,Sherertz,Engineer,1998-08-07,9999-01-01
+290563,Shigehiro,Oxenboll,Senior Engineer,1986-02-26,9999-01-01
+290769,Lalit,Blokdijk,Senior Engineer,1999-02-01,9999-01-01
+291352,Danai,Trelles,Technique Leader,1992-04-17,9999-01-01
+291612,Siamak,Gomatam,Engineer,1998-07-08,9999-01-01
+291669,Faiza,Bach,Engineer,1999-09-13,9999-01-01
+292110,Menkae,Showalter,Senior Engineer,2001-08-09,9999-01-01
+292146,Khatoun,Pulkowski,Engineer,1998-01-11,9999-01-01
+292210,Masaru,Huhdanpaa,Senior Engineer,2001-11-23,9999-01-01
+292404,Hongzue,Zultner,Senior Staff,1990-02-22,9999-01-01
+292504,Georgi,Bednarek,Senior Engineer,2002-03-02,9999-01-01
+292515,Bernd,Thummel,Engineer,1998-08-03,9999-01-01
+292828,Ziya,Tokunaga,Senior Engineer,1995-01-08,9999-01-01
+293080,Hideyuki,Slaats,Senior Staff,1987-05-30,9999-01-01
+293154,Syozo,Maliniak,Senior Staff,1992-11-09,9999-01-01
+293280,Moti,Steenbeek,Senior Engineer,1993-01-21,9999-01-01
+293329,Fumiya,Griswold,Senior Engineer,1994-06-12,9999-01-01
+293746,Sanjay,Litecky,Senior Engineer,2000-08-26,9999-01-01
+293752,Jungsoon,Bail,Senior Staff,1994-02-18,9999-01-01
+294144,Takanari,Ermel,Senior Staff,1999-01-11,9999-01-01
+294241,Marl,Fiebach,Senior Staff,2000-07-25,9999-01-01
+294446,Claudi,Ruemmler,Staff,1999-08-13,9999-01-01
+294461,Siddarth,Rosiles,Senior Engineer,1985-11-18,9999-01-01
+294527,Ashish,Candan,Senior Staff,1992-02-02,9999-01-01
+294652,Hironobu,Brodie,Senior Engineer,1993-09-17,9999-01-01
+294791,Vesna,Lammel,Assistant Engineer,1999-10-08,9999-01-01
+294857,Caolyn,Ozeri,Senior Engineer,1993-07-29,9999-01-01
+295030,Fun,Keirsey,Senior Staff,1985-07-09,9999-01-01
+295236,Kauko,Fujisawa,Senior Engineer,1992-09-12,9999-01-01
+295254,Xuejun,Pfau,Senior Staff,1993-07-24,9999-01-01
+295255,Jacopo,Bellone,Technique Leader,1988-03-13,9999-01-01
+295262,Moon,Pews,Assistant Engineer,1994-08-06,9999-01-01
+295268,Eben,Calkin,Senior Staff,2001-12-19,9999-01-01
+295278,Val,Barvinok,Senior Engineer,2000-01-02,9999-01-01
+295411,Chiranjit,Serot,Staff,1997-04-04,9999-01-01
+295857,Kankanahalli,Ciolek,Senior Staff,1998-12-26,9999-01-01
+296062,Shaz,Driscoll,Staff,1998-10-03,9999-01-01
+296303,Mariangiola,Heyers,Technique Leader,1992-08-04,9999-01-01
+296428,Charmane,Simmen,Senior Staff,1997-03-07,9999-01-01
+296664,Dipayan,Geffroy,Senior Engineer,1987-09-17,9999-01-01
+296687,Palash,Spieker,Senior Staff,1996-05-10,9999-01-01
+296718,Kamakshi,Bahl,Senior Engineer,1987-12-22,9999-01-01
+297232,Lokesh,Saoudi,Senior Staff,1999-05-25,9999-01-01
+297431,Cathie,Ratnakar,Senior Staff,1996-06-23,9999-01-01
+297474,Irena,Terkki,Staff,1998-03-11,9999-01-01
+297905,Marc,Bahl,Assistant Engineer,1997-06-18,9999-01-01
+297954,Sailaja,Fujisaki,Assistant Engineer,1995-07-24,9999-01-01
+298339,King,Benzmuller,Senior Engineer,1995-09-04,9999-01-01
+298577,Florina,Litecky,Senior Staff,1994-12-02,9999-01-01
+298953,Zita,Syang,Staff,1998-12-29,9999-01-01
+299346,Fumitake,Sichman,Senior Staff,1991-02-21,9999-01-01
+299580,Luisa,Itzfeldt,Engineer,1997-01-23,9999-01-01
+299718,Denny,Shobatake,Senior Staff,2002-06-22,9999-01-01
+299737,Patricio,Itzfeldt,Senior Staff,1994-05-21,9999-01-01
+400046,Hilari,Christ,Senior Staff,1991-01-19,9999-01-01
+400358,Angus,Jullig,Senior Engineer,1997-04-13,9999-01-01
+400683,Kamakshi,Manders,Staff,1995-08-05,9999-01-01
+400780,Poornachandra,Asser,Engineer,1993-11-07,9999-01-01
+400796,Bodo,Halevi,Engineer,1996-05-30,9999-01-01
+401154,Danae,Kragelund,Senior Staff,1993-05-19,9999-01-01
+401278,Oguz,Schurmann,Engineer,1995-11-11,9999-01-01
+401333,Martins,Shokrollahi,Senior Engineer,1991-11-04,9999-01-01
+401420,Florian,Uhrig,Senior Staff,1987-01-31,9999-01-01
+401574,Yannik,Falco,Technique Leader,1988-01-15,9999-01-01
+402025,Shigehito,Duclos,Senior Engineer,1992-09-19,9999-01-01
+402102,Kersti,Granlund,Engineer,1995-03-19,9999-01-01
+402664,Subhada,Janetzko,Senior Engineer,1987-01-25,9999-01-01
+402718,Jeanna,Rettelbach,Senior Engineer,1996-02-14,9999-01-01
+402827,Weidon,Pollacia,Senior Staff,1996-02-27,9999-01-01
+403010,Toshimitsu,Sluis,Senior Engineer,1985-02-18,9999-01-01
+403621,Deborah,Kaminger,Senior Staff,1997-06-04,9999-01-01
+403644,Krisda,Hainaut,Senior Staff,2000-07-07,9999-01-01
+403954,Jeanna,Bratten,Senior Engineer,1997-07-26,9999-01-01
+404018,Valery,Babb,Senior Engineer,1998-10-19,9999-01-01
+404236,Zengping,Kakkar,Senior Engineer,1996-07-22,9999-01-01
+404462,Anestis,Setlzner,Senior Engineer,1991-07-13,9999-01-01
+404573,Eberhardt,Spelt,Staff,1997-07-05,9999-01-01
+404755,Manu,Junet,Senior Staff,1996-04-19,9999-01-01
+404788,Basem,Beausoleil,Engineer,1998-03-16,9999-01-01
+405015,Morris,Fargier,Senior Staff,1996-06-29,9999-01-01
+405063,Yechezkel,Yurov,Senior Engineer,1998-11-30,9999-01-01
+406125,Georgi,Portugali,Technique Leader,1987-09-27,9999-01-01
+406239,Marek,Tomescu,Senior Engineer,2002-05-15,9999-01-01
+406564,Parviz,Picco,Engineer,1995-04-16,9999-01-01
+406714,Malu,Ossenbruggen,Senior Staff,1994-11-21,9999-01-01
+406847,Alexius,Crouzet,Staff,1999-10-05,9999-01-01
+407522,Tommaso,Raczkowsky,Staff,1996-08-29,9999-01-01
+407837,Fei,Erez,Senior Engineer,1991-10-15,9999-01-01
+408019,Shridhar,Chleq,Senior Engineer,1996-03-21,9999-01-01
+408114,Geoffrey,Ladret,Engineer,1994-01-03,9999-01-01
+408163,Irene,Sethi,Senior Engineer,1996-09-06,9999-01-01
+408417,Tsz,Daescu,Staff,1994-01-29,9999-01-01
+408437,Uno,Solares,Senior Staff,1999-09-22,9999-01-01
+408447,Mayuri,Werthner,Senior Staff,1999-08-19,9999-01-01
+408654,Yongqiao,Cochrane,Senior Staff,1991-10-27,9999-01-01
+408953,Jolita,Claffy,Senior Engineer,1993-12-24,9999-01-01
+409391,Willard,Verspoor,Engineer,1999-02-28,9999-01-01
+409798,Dekang,Tsunoo,Technique Leader,1995-01-19,9999-01-01
+409805,Frazer,Candan,Senior Engineer,1999-03-05,9999-01-01
+409898,Divier,Ishibashi,Senior Engineer,1994-09-22,9999-01-01
+410028,Xiadong,McClurg,Senior Staff,1994-09-17,9999-01-01
+410372,Duri,Mitina,Senior Engineer,1995-03-04,9999-01-01
+410433,Kazuhisa,Riesenhuber,Senior Engineer,1992-10-06,9999-01-01
+410616,Gudjon,Kalorkoti,Senior Engineer,1999-04-14,9999-01-01
+410804,Ronnie,Denos,Senior Engineer,1997-06-08,9999-01-01
+410881,Koichi,Grabner,Senior Engineer,1990-04-24,9999-01-01
+411070,Otmar,Brandsma,Senior Engineer,1992-05-27,9999-01-01
+411082,Martine,Cangellaris,Senior Engineer,1998-04-28,9999-01-01
+411143,Goncalo,Barbanera,Senior Staff,1996-09-01,9999-01-01
+412404,Mitsuyuki,Jeansoulin,Senior Engineer,1999-10-28,9999-01-01
+412757,Leen,Peak,Engineer,1999-11-20,9999-01-01
+413098,Hsiangchu,Taubenfeld,Senior Staff,1999-04-17,9999-01-01
+413205,Mototsugu,Prampolini,Senior Staff,1988-06-12,9999-01-01
+413666,Remco,Duclos,Senior Staff,1996-04-18,9999-01-01
+413729,Harjit,Ernst,Technique Leader,1992-04-26,9999-01-01
+413831,Mohamadou,Grabner,Senior Staff,1998-11-25,9999-01-01
+413832,Marco,Jahnichen,Senior Staff,1995-03-28,9999-01-01
+414027,Tadanori,Msuda,Senior Engineer,1997-11-06,9999-01-01
+414091,Wuxu,Kuhnemann,Engineer,1997-08-19,9999-01-01
+414543,Bernd,Anick,Senior Engineer,1988-11-19,9999-01-01
+414551,Elliott,Copas,Senior Engineer,1999-09-13,9999-01-01
+414662,Ipke,Schneeberger,Senior Engineer,1994-09-20,9999-01-01
+414714,Chinho,Delgrande,Senior Staff,1996-11-07,9999-01-01
+414814,Dayanand,Wielonsky,Staff,1999-02-15,9999-01-01
+414897,Juyoung,Willoner,Senior Staff,1994-11-03,9999-01-01
+415187,Juyoung,Peltason,Assistant Engineer,1998-09-01,9999-01-01
+415338,Shigeo,Emmart,Assistant Engineer,1995-12-24,9999-01-01
+415363,Conal,Shackell,Senior Staff,1993-01-25,9999-01-01
+415563,Mrinalini,Bierbaum,Senior Engineer,1994-03-12,9999-01-01
+416074,Alain,Lieberherr,Senior Engineer,1996-05-10,9999-01-01
+416383,Nectarios,Itschner,Senior Engineer,1996-03-01,9999-01-01
+416420,Adamantios,Heemskerk,Senior Staff,1986-08-08,9999-01-01
+416492,Kannan,Meriste,Senior Engineer,1992-08-12,9999-01-01
+416660,Nathalie,Luke,Senior Engineer,1997-09-15,9999-01-01
+416720,Tokuyasu,Xiaoshan,Senior Engineer,1998-09-19,9999-01-01
+416877,Gio,Orsini,Senior Staff,1993-12-07,9999-01-01
+416892,Shooichi,Vandervoorde,Engineer,1996-08-16,9999-01-01
+417435,Bouchung,Zaumen,Senior Staff,1999-01-29,9999-01-01
+418239,Josyula,Motley,Senior Engineer,1992-09-05,9999-01-01
+418247,Oscar,Oppitz,Senior Staff,2001-06-29,9999-01-01
+418298,Arvin,Pusterhofer,Senior Engineer,2002-03-02,9999-01-01
+418309,Danel,Petereit,Senior Engineer,1994-02-21,9999-01-01
+418380,Kazuhiko,Gornas,Senior Engineer,1993-05-20,9999-01-01
+418566,Kazuhide,Snedden,Senior Engineer,1996-06-14,9999-01-01
+418606,Michaela,Otillio,Engineer,1994-01-05,9999-01-01
+418717,Arunachalam,Magliocco,Senior Staff,1992-12-22,9999-01-01
+418860,Ymte,Dalton,Senior Staff,1997-11-22,9999-01-01
+419099,Heon,Broomell,Staff,1998-05-06,9999-01-01
+419953,Ung,Orlowski,Senior Staff,1998-07-22,9999-01-01
+420086,Susuma,Kitsuregawa,Senior Engineer,1993-05-28,9999-01-01
+420476,Mariangiola,Bolsens,Senior Staff,1994-06-15,9999-01-01
+420557,Mabhin,Eastman,Senior Staff,1994-08-02,9999-01-01
+420694,Frazer,Barbanera,Senior Staff,1991-11-04,9999-01-01
+420732,Willard,Morrin,Senior Staff,2001-05-27,9999-01-01
+420759,Raimond,Solovay,Staff,1997-10-03,9999-01-01
+420765,Shawna,Krider,Senior Staff,1997-03-09,9999-01-01
+420877,Khosrow,Erez,Senior Staff,1996-02-11,9999-01-01
+421022,Shigeaki,Butner,Senior Staff,1996-07-13,9999-01-01
+421033,Garnik,Randt,Senior Staff,1994-12-23,9999-01-01
+421074,Zhaofang,Falster,Senior Staff,1999-06-29,9999-01-01
+421312,Mariangiola,Bashian,Engineer,1999-09-18,9999-01-01
+421384,Renny,Bednarek,Senior Staff,1995-06-01,9999-01-01
+421755,Shichao,Thiria,Senior Engineer,2001-01-10,9999-01-01
+422146,Kenton,Miara,Engineer,1999-05-14,9999-01-01
+422783,Jagoda,Uhrig,Engineer,1995-09-01,9999-01-01
+423038,Takushi,Strehl,Senior Staff,1988-10-04,9999-01-01
+423204,Uma,Stranks,Senior Staff,1996-09-12,9999-01-01
+423208,Joydip,Krone,Engineer,1995-02-08,9999-01-01
+423214,Tsutomu,Tetzlaff,Senior Staff,1993-09-23,9999-01-01
+423327,Constantijn,Lichtman,Senior Staff,2001-06-26,9999-01-01
+423350,Heping,Monarch,Senior Staff,1993-04-15,9999-01-01
+423633,Mariusz,Tokunaga,Senior Engineer,1985-02-11,9999-01-01
+423993,Seshu,Kolvik,Technique Leader,1988-12-09,9999-01-01
+424569,Danco,Luff,Engineer,1997-10-30,9999-01-01
+424584,Kagan,Dredge,Senior Engineer,2000-02-26,9999-01-01
+424685,Changho,Veevers,Senior Staff,1997-03-03,9999-01-01
+424797,Theron,Itschner,Senior Staff,1993-05-16,9999-01-01
+424805,Jacqueline,Zallocco,Senior Staff,1994-12-17,9999-01-01
+424930,Xuejun,Reeker,Senior Staff,1997-11-18,9999-01-01
+424984,Vasilis,Waleschkowski,Engineer,1996-05-26,9999-01-01
+425437,Moni,Staudhammer,Engineer,1999-03-23,9999-01-01
+425535,Alagu,Vieri,Senior Staff,1992-08-22,9999-01-01
+425540,Paddy,Zumaque,Senior Staff,1995-11-12,9999-01-01
+425757,Yongdong,Jiang,Senior Staff,1990-10-13,9999-01-01
+425780,Paris,Range,Senior Staff,1997-10-25,9999-01-01
+425830,Guther,Conia,Engineer,1999-02-13,9999-01-01
+425875,Jahangir,Kroft,Senior Staff,1995-06-11,9999-01-01
+426153,Shahaf,Luce,Senior Staff,1999-04-06,9999-01-01
+426168,Kaijung,Mateescu,Senior Staff,1992-11-17,9999-01-01
+426228,Supot,Badache,Engineer,1996-08-17,9999-01-01
+426235,Danco,Rajala,Senior Staff,1996-03-28,9999-01-01
+426644,Zejun,Broomell,Senior Engineer,2002-01-19,9999-01-01
+426706,Karsten,Kawashima,Senior Engineer,1999-03-15,9999-01-01
+426795,Huican,Lunn,Senior Staff,1991-07-23,9999-01-01
+426818,Gaurav,Fendler,Senior Staff,1997-02-14,9999-01-01
+426819,Sandeepan,Kulisch,Engineer,1997-05-16,9999-01-01
+426824,Gopalakrishnan,Mawatari,Senior Staff,1993-10-29,9999-01-01
+426958,Weijing,Viele,Senior Engineer,1993-10-03,9999-01-01
+427313,Utpal,Kemmerer,Senior Staff,1991-12-04,9999-01-01
+427320,Mamdouh,Ramamoorthy,Senior Engineer,2000-01-13,9999-01-01
+427332,Feiyu,Hemaspaandra,Staff,1995-06-04,9999-01-01
+427571,Torsten,Ranta,Senior Engineer,1996-12-10,9999-01-01
+427776,Jaques,Navazio,Senior Staff,1998-04-03,9999-01-01
+427805,Haldun,Compeau,Senior Staff,1997-10-15,9999-01-01
+427823,Jaques,Gecsei,Staff,1999-07-13,9999-01-01
+427852,Adil,Kieras,Senior Engineer,1992-07-20,9999-01-01
+428082,Ronghao,Alpin,Senior Staff,2000-09-10,9999-01-01
+428160,Jamaludin,Kalorkoti,Senior Staff,2001-07-14,9999-01-01
+428195,Hatsukazu,Rosca,Senior Staff,1991-10-13,9999-01-01
+428219,Ghassan,Androutsos,Senior Staff,1993-12-25,9999-01-01
+428917,Theron,Billawala,Senior Engineer,2001-02-16,9999-01-01
+429087,Hugh,Senzako,Technique Leader,1992-10-15,9999-01-01
+429231,Kazuyasu,Schmiedel,Senior Staff,1991-09-07,9999-01-01
+429238,Mona,Luck,Senior Staff,1989-05-11,9999-01-01
+429249,Alassane,Wolniewicz,Senior Engineer,1993-10-06,9999-01-01
+429316,Seshu,Hiraishi,Senior Staff,2001-08-10,9999-01-01
+429381,Limsoon,Roohalamini,Senior Staff,1992-11-25,9999-01-01
+429481,Subhada,Emmerich,Engineer,1996-03-06,9999-01-01
+429520,Yongqiao,Francisci,Engineer,1999-12-01,9999-01-01
+429532,Bartek,Vendrig,Senior Staff,1996-11-11,9999-01-01
+429569,Fumiya,Chappelet,Engineer,1999-09-04,9999-01-01
+429703,Ung,Honglei,Senior Staff,1993-09-02,9999-01-01
+429899,Ranan,Marsiglia,Staff,1999-08-13,9999-01-01
+429954,Renny,Gladwell,Staff,1999-02-27,9999-01-01
+430054,Erzsebet,Setiz,Senior Engineer,1998-06-10,9999-01-01
+430558,Xiong,Roisin,Senior Engineer,1995-03-02,9999-01-01
+430593,Janalee,Lanzelotte,Senior Staff,1997-12-01,9999-01-01
+430631,Kersti,Marsiglia,Engineer,1994-02-19,9999-01-01
+430891,Khalil,Gien,Senior Engineer,1991-08-06,9999-01-01
+431576,Masamitsu,Back,Senior Staff,1994-03-25,9999-01-01
+431657,Visit,Thiran,Senior Engineer,1991-11-14,9999-01-01
+431882,Hideo,Varman,Engineer,1997-06-19,9999-01-01
+431887,Poorav,Ranst,Senior Engineer,1996-06-01,9999-01-01
+432031,Adamantios,Matzat,Senior Staff,1993-02-28,9999-01-01
+432034,Arfst,Uehara,Senior Staff,1993-11-15,9999-01-01
+432121,Alair,Straney,Senior Staff,1992-11-14,9999-01-01
+432257,Kwangjo,Hiltgen,Engineer,1998-12-22,9999-01-01
+432261,Arve,Bergere,Senior Engineer,1994-07-28,9999-01-01
+432399,Nitsan,Nollmann,Senior Engineer,1996-09-09,9999-01-01
+432523,Takahiro,Maquelin,Engineer,1997-07-21,9999-01-01
+432665,Flemming,Driscoll,Senior Engineer,1999-06-28,9999-01-01
+432787,Toshiko,Ibel,Senior Engineer,1996-11-23,9999-01-01
+432956,Qunsheng,Birrer,Senior Staff,1994-05-13,9999-01-01
+433059,Bojan,Montresor,Staff,1995-02-04,9999-01-01
+433157,Tomofumi,Serna,Staff,1999-10-23,9999-01-01
+433260,Make,Olivero,Engineer,1998-06-01,9999-01-01
+433438,Keiichiro,Miyakawa,Senior Staff,2000-09-12,9999-01-01
+434845,Takushi,Skogmar,Senior Staff,1991-06-07,9999-01-01
+434936,Sahrah,Rosis,Senior Engineer,2000-06-23,9999-01-01
+435042,Brigham,Borstler,Staff,1995-10-09,9999-01-01
+435060,Moie,Lieblein,Staff,1996-07-12,9999-01-01
+435181,Kazuhide,Fiutem,Senior Staff,1998-05-10,9999-01-01
+435289,Feixiong,Schurmann,Senior Staff,1993-02-14,9999-01-01
+435305,Berthier,Pramanik,Senior Staff,1999-01-23,9999-01-01
+435370,Conal,Basart,Senior Staff,1991-05-17,9999-01-01
+435588,Genta,Pepe,Senior Staff,2002-04-12,9999-01-01
+435602,Dietrich,Kranzdorf,Senior Staff,2001-10-04,9999-01-01
+435774,Olivera,Bharadwaj,Senior Staff,2001-04-01,9999-01-01
+435791,Hercules,Speer,Senior Engineer,1999-03-07,9999-01-01
+436558,Subir,Greibach,Senior Engineer,1992-05-24,9999-01-01
+436797,Ohad,Henders,Senior Staff,1996-11-02,9999-01-01
+436827,Wojceich,Limongiello,Senior Staff,1988-03-10,9999-01-01
+436915,Feixiong,Haraldson,Staff,1998-10-11,9999-01-01
+437276,Dines,DeMori,Senior Staff,1994-12-07,9999-01-01
+437369,Kazuhide,Biran,Senior Staff,1995-01-25,9999-01-01
+437395,Sumant,Thambidurai,Senior Staff,2000-01-02,9999-01-01
+437724,Erez,Luft,Staff,1994-12-14,9999-01-01
+437870,Kerhong,Lorho,Staff,1995-06-18,9999-01-01
+438038,Lena,Giaccio,Senior Staff,1999-03-17,9999-01-01
+438264,Rasikan,Barreiro,Senior Staff,2000-09-26,9999-01-01
+438557,Lidong,Swist,Engineer,1999-09-16,9999-01-01
+439377,Mari,Plessier,Senior Engineer,1997-07-04,9999-01-01
+439905,Kousuke,Levasseur,Senior Staff,1996-03-15,9999-01-01
+439924,Gunilla,Kisuki,Senior Staff,2000-08-13,9999-01-01
+440325,Douadi,Sullins,Senior Staff,1999-09-25,9999-01-01
+440435,Sandeepan,Rosti,Senior Engineer,1991-11-26,9999-01-01
+440450,Tzvetan,Scharstein,Senior Staff,1999-06-16,9999-01-01
+440642,Snehasis,Kalsbeek,Senior Staff,1997-01-05,9999-01-01
+440870,Filipp,Hasham,Senior Staff,1999-07-11,9999-01-01
+440937,Fabrizio,Usery,Senior Staff,1999-10-14,9999-01-01
+441197,Miquel,Legleitner,Senior Staff,1993-06-28,9999-01-01
+441536,Chinho,Collette,Senior Engineer,1990-08-07,9999-01-01
+441954,Leszek,Marchegay,Engineer,1999-06-13,9999-01-01
+441965,Claudi,Heijenga,Senior Staff,1994-08-30,9999-01-01
+442002,Ravishankar,Baig,Senior Staff,2000-03-17,9999-01-01
+442096,Martijn,DiGiano,Senior Engineer,1990-06-15,9999-01-01
+442312,Zengping,Cusworth,Senior Engineer,1997-06-06,9999-01-01
+442490,Navid,Luke,Engineer,1994-10-17,9999-01-01
+442653,Mona,Hebden,Engineer,1995-10-20,9999-01-01
+442700,Siddarth,Masada,Staff,1997-08-11,9999-01-01
+442898,Aksel,Gire,Engineer,1999-06-27,9999-01-01
+443108,Christfried,Atrawala,Senior Staff,1990-07-13,9999-01-01
+443485,Marke,Klerer,Senior Staff,1990-04-14,9999-01-01
+443841,Shaw,Kading,Senior Staff,2000-07-16,9999-01-01
+443873,Vatsa,Ramsay,Senior Staff,2002-02-04,9999-01-01
+444070,Heping,Skrikant,Senior Staff,1999-11-27,9999-01-01
+444099,Kousuke,Worfolk,Senior Staff,1997-03-22,9999-01-01
+444208,Irena,Cesareni,Senior Staff,1985-10-30,9999-01-01
+444465,Prasadram,Bultermann,Senior Engineer,1997-08-29,9999-01-01
+444487,Udi,Rullman,Senior Engineer,1994-04-09,9999-01-01
+444643,Berna,Schonegge,Staff,1998-06-28,9999-01-01
+445067,Eldridge,Kawashima,Senior Engineer,1997-02-27,9999-01-01
+445152,Heping,Peac,Senior Staff,1992-03-20,9999-01-01
+445226,Oscar,Baumann,Senior Engineer,1996-01-22,9999-01-01
+445570,Van,Nations,Technique Leader,1986-08-11,9999-01-01
+445723,Gaurav,Roison,Senior Staff,1995-10-22,9999-01-01
+445941,Masako,Dechter,Technique Leader,1985-09-25,9999-01-01
+445950,Ebru,Valtorta,Senior Engineer,1997-12-09,9999-01-01
+446121,Fay,Cochrane,Staff,1999-12-13,9999-01-01
+446306,Hercules,Kabayashi,Senior Engineer,1991-06-10,9999-01-01
+446424,DAIDA,Nooteboom,Senior Engineer,1992-11-24,9999-01-01
+446897,Takahiro,Dalton,Technique Leader,1992-09-30,9999-01-01
+446959,Aram,Passino,Senior Engineer,1995-01-28,9999-01-01
+447018,Dannz,Miara,Senior Engineer,2000-12-04,9999-01-01
+447135,Gennady,Rouquie,Senior Staff,1989-08-24,9999-01-01
+447232,Aleksander,Schaaf,Senior Staff,2001-05-25,9999-01-01
+447376,Kirk,Zongker,Staff,1999-12-10,9999-01-01
+447544,Stabislas,Kakkad,Senior Staff,1989-02-19,9999-01-01
+447613,Paris,Restivo,Senior Engineer,1991-11-21,9999-01-01
+447877,Make,Heuser,Senior Engineer,1997-07-02,9999-01-01
+447931,Martijn,Jeong,Senior Staff,1999-12-14,9999-01-01
+447966,Kamakshi,Hebert,Senior Engineer,2002-01-17,9999-01-01
+447982,Shiv,Baezner,Senior Engineer,1996-12-16,9999-01-01
+447999,Shiv,Vilarrasa,Senior Engineer,1995-08-01,9999-01-01
+448769,Mong,Dichev,Technique Leader,1997-10-11,9999-01-01
+448900,Mart,Talmor,Staff,1999-05-11,9999-01-01
+448918,Chiradeep,Arlazarov,Senior Engineer,1998-10-06,9999-01-01
+448994,Haldun,Syang,Staff,1997-02-11,9999-01-01
+449189,Jahangir,Bernatsky,Senior Staff,1995-09-30,9999-01-01
+449815,Fumitaka,Quittner,Senior Staff,1993-04-20,9999-01-01
+449984,Hinrich,Perin,Senior Engineer,1993-11-20,9999-01-01
+450184,Selwyn,Henseler,Senior Engineer,1993-03-09,9999-01-01
+450255,Udo,Waymire,Technique Leader,1986-06-14,9999-01-01
+450309,Gill,Orlowska,Technique Leader,1986-12-25,9999-01-01
+450475,Saeed,Bahl,Senior Staff,1991-01-29,9999-01-01
+450817,DAIDA,Frolund,Senior Engineer,1996-07-16,9999-01-01
+450888,Sedat,Rande,Senior Staff,2001-03-24,9999-01-01
+450934,Chanjung,Raoux,Senior Engineer,1998-05-25,9999-01-01
+450936,Yuriy,Ponthieu,Senior Staff,1996-12-10,9999-01-01
+451253,Jaihie,Ozeri,Senior Staff,1997-06-20,9999-01-01
+451272,Jacopo,Krohm,Senior Engineer,1997-04-23,9999-01-01
+451275,Bedrich,Isard,Senior Staff,1986-06-07,9999-01-01
+451333,Radhika,Bonifati,Senior Staff,1995-03-11,9999-01-01
+452137,Subir,Miake,Senior Engineer,2002-07-11,9999-01-01
+452206,Arra,Esposito,Staff,1994-11-03,9999-01-01
+452325,Taiji,Berstel,Senior Engineer,2001-12-02,9999-01-01
+452347,Shigeichiro,Brattka,Senior Staff,2001-07-13,9999-01-01
+452365,Fei,Gadepally,Engineer,1997-11-13,9999-01-01
+452956,Gou,Thombley,Senior Engineer,1987-04-09,9999-01-01
+452957,Alair,Nanard,Staff,1996-02-10,9999-01-01
+452982,Lobel,Aloia,Senior Staff,1994-12-29,9999-01-01
+453070,Aran,Rosenbaum,Senior Staff,2000-04-24,9999-01-01
+453154,Gao,Lally,Staff,1996-03-01,9999-01-01
+453644,Berni,Takkinen,Senior Staff,1997-06-08,9999-01-01
+453688,Chinya,Leslie,Engineer,1995-10-28,9999-01-01
+453723,Arne,Kohling,Senior Engineer,1993-12-13,9999-01-01
+453760,Ewing,Rajala,Senior Staff,2001-06-21,9999-01-01
+453790,Fai,Keirsey,Senior Engineer,1999-10-12,9999-01-01
+453913,Stein,Perng,Senior Staff,1998-04-29,9999-01-01
+454338,Mohammed,Georg,Engineer,1998-08-03,9999-01-01
+454378,Gina,Ossenbruggen,Technique Leader,1998-01-03,9999-01-01
+454736,Nechama,Ermel,Engineer,1995-06-05,9999-01-01
+454791,Xiaoqiu,Pietracaprina,Senior Engineer,1994-07-09,9999-01-01
+454825,Kamakshi,Schusler,Senior Engineer,2001-05-24,9999-01-01
+454994,Mohan,Picht,Senior Engineer,2000-02-24,9999-01-01
+455175,Soenke,Zaumen,Senior Staff,1998-02-21,9999-01-01
+455284,Luisa,Baig,Senior Engineer,2002-07-12,9999-01-01
+455726,Qiwen,Kriebel,Senior Staff,1992-12-12,9999-01-01
+455814,Giao,DuCasse,Senior Engineer,1999-07-19,9999-01-01
+455914,Peer,Angelopoulos,Senior Engineer,1996-07-23,9999-01-01
+456767,Tetsurou,Schreiter,Senior Staff,1994-07-17,9999-01-01
+456982,Shounak,Dratva,Senior Engineer,1997-01-05,9999-01-01
+457070,Gay,Plavsic,Senior Staff,1994-08-06,9999-01-01
+457146,Jinpo,Heyers,Staff,1999-01-07,9999-01-01
+457305,Sorina,Lakshmanan,Staff,1994-09-03,9999-01-01
+457337,Xumin,Beidas,Technique Leader,1995-04-27,9999-01-01
+457411,Xudong,Peck,Senior Engineer,1988-04-18,9999-01-01
+457489,Berna,Ranst,Senior Engineer,1992-05-14,9999-01-01
+457611,Indrajit,Krogh,Engineer,1998-09-18,9999-01-01
+457776,Florian,Siepmann,Senior Engineer,1996-12-20,9999-01-01
+457813,Foong,Gargeya,Senior Engineer,2000-01-24,9999-01-01
+457832,Jackson,Zielinski,Senior Engineer,1997-09-12,9999-01-01
+457938,Arch,Picco,Senior Staff,2000-06-07,9999-01-01
+458111,Florian,Tramer,Engineer,1999-11-07,9999-01-01
+458134,Thanasis,Standera,Senior Staff,1992-03-20,9999-01-01
+458191,George,Atchley,Staff,1997-07-02,9999-01-01
+458383,Mabhin,Foote,Engineer,1999-04-23,9999-01-01
+458726,Shahaf,Kitai,Senior Staff,1991-12-26,9999-01-01
+458790,Ramya,Azadmanesh,Senior Engineer,1994-11-19,9999-01-01
+459172,Val,Rissanen,Engineer,1999-11-20,9999-01-01
+459356,Pramod,Wendorf,Engineer,1998-12-25,9999-01-01
+459429,Mohit,Verhaegen,Senior Staff,1999-05-28,9999-01-01
+459685,Hirochika,Goldhammer,Engineer,1998-03-12,9999-01-01
+460131,Adly,Hambrick,Staff,1997-07-25,9999-01-01
+460691,Munehiko,Gihr,Senior Staff,1989-12-06,9999-01-01
+460707,Yoshinari,Lanteri,Senior Engineer,2001-12-25,9999-01-01
+460920,Remzi,Mitzlaff,Senior Staff,1986-04-06,9999-01-01
+461120,Shietung,Gelosh,Senior Engineer,2001-03-26,9999-01-01
+461270,Mrinalini,Mawatari,Staff,1996-01-03,9999-01-01
+461801,Sumali,Cooman,Senior Staff,2000-02-16,9999-01-01
+462493,Paloma,Gerlach,Senior Engineer,1994-07-26,9999-01-01
+462795,Somnath,Cummings,Senior Staff,2002-07-10,9999-01-01
+463023,Itzchak,Penn,Staff,1999-01-21,9999-01-01
+463099,Jinxi,Schmiedel,Senior Staff,1996-09-20,9999-01-01
+463212,Ramya,Rossi,Senior Engineer,1987-03-02,9999-01-01
+463472,Jaber,Sethi,Technique Leader,1995-06-06,9999-01-01
+463495,Alenka,Barriga,Senior Staff,1993-05-06,9999-01-01
+464284,Huiqun,Henders,Senior Staff,1993-05-19,9999-01-01
+464303,Abdelghani,Nyrup,Senior Staff,1994-08-02,9999-01-01
+465062,Stafford,Gist,Senior Engineer,1995-05-08,9999-01-01
+465076,Tokuyasu,Ghelli,Senior Engineer,1993-05-05,9999-01-01
+465085,Vidar,Gunderson,Senior Staff,1996-03-18,9999-01-01
+465409,Shahid,Varman,Senior Staff,1993-08-27,9999-01-01
+465501,Mrinalini,Gire,Senior Staff,2000-11-09,9999-01-01
+465711,Lakshmi,Frijda,Senior Engineer,1995-04-21,9999-01-01
+465853,Kwan,Kampfer,Staff,1998-10-16,9999-01-01
+465874,Herb,Picht,Engineer,1994-05-31,9999-01-01
+466064,Temple,Danlos,Senior Staff,1994-06-13,9999-01-01
+466367,Hiroyasu,Strandh,Senior Staff,1997-06-05,9999-01-01
+466509,Bezalel,Verhoeff,Senior Engineer,1993-03-22,9999-01-01
+466603,Yechezkel,Nourani,Senior Staff,1996-07-31,9999-01-01
+466745,Boalin,Birsak,Senior Staff,2000-10-15,9999-01-01
+467176,Przemyslawa,Borovoy,Senior Staff,1998-06-18,9999-01-01
+467269,Nahum,Lambe,Technique Leader,1989-08-31,9999-01-01
+467392,Mariusz,Rikino,Senior Engineer,2001-04-12,9999-01-01
+467441,Margareta,Bondorf,Senior Engineer,1994-11-07,9999-01-01
+467591,Kiyotoshi,Hennebert,Staff,1997-09-21,9999-01-01
+467886,Sivanarayana,Chandrasekhar,Senior Staff,1996-01-24,9999-01-01
+467918,Tsuneo,Skrikant,Staff,1997-10-21,9999-01-01
+468360,Huei,Saoudi,Technique Leader,1994-08-10,9999-01-01
+468417,Kamakshi,Huhdanpaa,Senior Engineer,2001-08-26,9999-01-01
+468659,Ranga,Lemarechal,Senior Engineer,1997-11-05,9999-01-01
+468773,Baziley,Brookner,Senior Engineer,1999-09-22,9999-01-01
+469104,Nadjib,Comellas,Senior Engineer,2002-04-18,9999-01-01
+469253,Baruch,Basawa,Senior Engineer,2001-09-17,9999-01-01
+469269,Weiyi,Codenie,Senior Engineer,1996-05-27,9999-01-01
+469366,Aiman,Wilfing,Senior Engineer,1999-12-30,9999-01-01
+469399,Hongzhu,Ruemmler,Engineer,1999-02-14,9999-01-01
+469527,Halsur,Ibel,Staff,1998-03-05,9999-01-01
+469529,Neven,Rikino,Senior Engineer,1993-10-21,9999-01-01
+469735,Arif,Stranks,Senior Engineer,1992-11-16,9999-01-01
+469867,Hein,Jonsson,Senior Staff,1990-02-12,9999-01-01
+470456,Reuven,Oehlmann,Senior Staff,1994-03-29,9999-01-01
+470472,Zhiguo,Staudhammer,Senior Engineer,1991-12-03,9999-01-01
+471397,Nigel,Zirintsis,Engineer,1999-01-03,9999-01-01
+471532,Feiyu,Decleir,Technique Leader,1998-09-13,9999-01-01
+471552,Basem,Lortz,Staff,1997-10-25,9999-01-01
+471911,Arun,Zaccaria,Engineer,1998-05-31,9999-01-01
+471939,Kazuhiko,Marshall,Staff,1999-11-16,9999-01-01
+472052,Godehard,Chinal,Assistant Engineer,1995-12-09,9999-01-01
+472143,Yahiko,Sommen,Senior Staff,1996-08-14,9999-01-01
+472238,Jungsoon,Gubsky,Senior Engineer,1990-10-09,9999-01-01
+472790,Zhenbing,Ibel,Senior Engineer,1985-10-29,9999-01-01
+472950,Weidon,Fordan,Senior Engineer,1986-03-27,9999-01-01
+473268,Hugo,Sgarro,Senior Staff,1992-04-24,9999-01-01
+473299,Khaled,Penn,Senior Staff,1999-05-20,9999-01-01
+473490,Pantung,Reeker,Senior Staff,1998-05-11,9999-01-01
+473940,Avishai,Majewski,Engineer,1998-01-10,9999-01-01
+474331,Sugwoo,Eugenio,Senior Staff,1991-10-06,9999-01-01
+474763,Mayuko,Clouatre,Engineer,1997-09-04,9999-01-01
+474796,Zongyan,Shackel,Technique Leader,1986-11-09,9999-01-01
+475087,Genevieve,Snedden,Senior Engineer,1988-10-21,9999-01-01
+475258,Fumiyo,Feinberg,Senior Staff,1995-11-22,9999-01-01
+475538,Christophe,Leaver,Staff,1998-10-31,9999-01-01
+475938,Shigeaki,Lanteri,Senior Engineer,1996-02-18,9999-01-01
+475965,Rimon,Pietracaprina,Senior Engineer,1990-07-10,9999-01-01
+476055,Girolamo,Schlumberger,Senior Staff,1998-03-07,9999-01-01
+476122,Khun,Spieker,Engineer,1995-05-07,9999-01-01
+476327,Reinhold,Binkley,Senior Engineer,2000-05-28,9999-01-01
+476361,Doohun,Preusig,Technique Leader,1985-04-13,9999-01-01
+477350,Terresa,Vigier,Staff,1998-07-08,9999-01-01
+477578,Marit,Paludetto,Senior Engineer,1998-09-30,9999-01-01
+477969,Bluma,Mundy,Senior Engineer,2000-10-17,9999-01-01
+478007,Fumino,Narahara,Senior Engineer,2000-09-20,9999-01-01
+478170,Doowon,Schoegge,Engineer,2001-05-29,9999-01-01
+478218,Djenana,Erol,Engineer,1999-01-31,9999-01-01
+478439,Yuichiro,Bale,Technique Leader,1997-11-04,9999-01-01
+478768,Arun,Katzenelson,Senior Engineer,1997-10-27,9999-01-01
+478799,Shaw,Borovoy,Senior Staff,1991-05-11,9999-01-01
+478833,Pradeep,Valiente,Senior Engineer,1998-09-19,9999-01-01
+478858,Hidekazu,Perna,Staff,1999-11-08,9999-01-01
+479024,Ewing,Kalorkoti,Engineer,1996-12-21,9999-01-01
+479407,Randi,Tomescu,Senior Engineer,2000-11-25,9999-01-01
+479601,Kayoko,Bahi,Staff,1997-02-19,9999-01-01
+479695,Masamitsu,Murrill,Senior Staff,2002-06-27,9999-01-01
+480035,Sukumar,Georg,Senior Staff,1998-03-27,9999-01-01
+480066,Suebskul,Menhardt,Senior Engineer,1999-07-26,9999-01-01
+480178,Uinam,Rahier,Senior Staff,1996-02-10,9999-01-01
+480268,Gaurav,Cheshire,Technique Leader,1989-03-30,9999-01-01
+480407,Deniz,Bennis,Senior Engineer,1996-06-24,9999-01-01
+481050,Weiru,Burnard,Senior Staff,1999-10-15,9999-01-01
+481213,Shigehiro,Haldar,Senior Staff,1999-12-14,9999-01-01
+481397,Luisa,Chelton,Assistant Engineer,1998-08-13,9999-01-01
+481764,Teiji,Marrakchi,Senior Engineer,1986-08-26,9999-01-01
+481790,Haldun,Erie,Senior Engineer,1996-09-12,9999-01-01
+482335,Kwangyoen,Peck,Engineer,1994-01-16,9999-01-01
+482354,Jayson,Zockler,Staff,1999-11-06,9999-01-01
+482755,Jouni,Conia,Senior Staff,1999-10-31,9999-01-01
+482885,Shaunak,Brizzi,Senior Engineer,2000-09-01,9999-01-01
+482905,Aral,Hebden,Senior Staff,1991-09-10,9999-01-01
+482944,Duke,Journel,Senior Staff,1997-10-25,9999-01-01
+483401,Rosita,Pokrovskii,Senior Staff,1996-08-03,9999-01-01
+483675,Hausi,Kamber,Senior Engineer,1993-02-15,9999-01-01
+483825,Marek,Mitchem,Senior Engineer,1992-11-20,9999-01-01
+483838,Sham,Kavanagh,Assistant Engineer,1997-12-18,9999-01-01
+483978,Dung,Tanemo,Senior Staff,1995-01-28,9999-01-01
+484126,Manton,Lueh,Senior Staff,1989-04-07,9999-01-01
+484142,Perry,Cooman,Senior Staff,1993-04-22,9999-01-01
+484498,Herbert,Hammerschmidt,Senior Engineer,2001-08-22,9999-01-01
+484756,Phule,Ruemmler,Senior Engineer,1996-08-08,9999-01-01
+485253,Gladys,Parhami,Senior Staff,1996-07-20,9999-01-01
+485489,Keiichiro,Armand,Senior Engineer,1996-12-13,9999-01-01
+485577,Rafael,Menhoudj,Senior Engineer,1997-04-27,9999-01-01
+485579,Munehiro,Iwayama,Senior Engineer,1992-12-15,9999-01-01
+485799,Yoshimitsu,Litvinov,Senior Staff,1997-11-22,9999-01-01
+485817,Mahmut,Bolotov,Engineer,1995-01-10,9999-01-01
+486068,Yefim,Bernardeschi,Senior Staff,2001-06-26,9999-01-01
+486808,Geoffrey,Siochi,Senior Engineer,1998-12-27,9999-01-01
+486918,Yagil,Remmers,Senior Staff,1994-11-01,9999-01-01
+486956,Matt,Ruemmler,Engineer,1993-10-14,9999-01-01
+486958,Tonny,Kropf,Senior Engineer,1992-07-29,9999-01-01
+487008,Zhigen,Raney,Senior Staff,1993-05-26,9999-01-01
+487505,Uno,Jayawardene,Senior Staff,1993-11-01,9999-01-01
+487988,Ekawit,Schaft,Senior Staff,1999-05-20,9999-01-01
+488095,Francoise,Hegner,Senior Staff,1997-12-23,9999-01-01
+488142,Denis,Narlikar,Senior Staff,1997-06-30,9999-01-01
+488482,Kensyu,Tsunoo,Engineer,1999-12-05,9999-01-01
+488540,Breannda,Maquelin,Senior Staff,1996-04-12,9999-01-01
+488619,Georgy,Bennis,Engineer,1998-04-11,9999-01-01
+488693,Jiong,Zultner,Senior Engineer,1993-03-10,9999-01-01
+488707,Mihalis,Remmers,Senior Staff,1996-02-29,9999-01-01
+488752,Nimmagadda,Baja,Senior Staff,2002-02-09,9999-01-01
+488788,Wuxu,Garigliano,Senior Staff,1997-09-21,9999-01-01
+488984,Kendra,Junet,Senior Staff,1993-02-28,9999-01-01
+489755,Matk,Chorvat,Senior Staff,2000-12-29,9999-01-01
+489756,Kersti,Miculan,Senior Staff,1999-06-10,9999-01-01
+489928,Satoru,Janetzko,Assistant Engineer,1997-07-26,9999-01-01
+490551,Lalit,Lindqvist,Engineer,1998-11-07,9999-01-01
+490557,Luise,Vigier,Senior Engineer,2001-07-01,9999-01-01
+490568,Zita,Reistad,Senior Engineer,1998-07-23,9999-01-01
+490720,Younwoo,Samarati,Senior Engineer,1996-08-19,9999-01-01
+491079,Kwangsub,Keirsey,Senior Engineer,1992-02-04,9999-01-01
+491162,Panayotis,Hempstead,Senior Engineer,1994-08-29,9999-01-01
+491478,Gill,Varman,Senior Staff,1996-06-18,9999-01-01
+491596,Charmane,Pargas,Senior Engineer,1993-07-29,9999-01-01
+491632,Gadiel,Perly,Senior Staff,1994-10-20,9999-01-01
+492000,Valeska,Cools,Senior Staff,1999-12-16,9999-01-01
+492052,Udo,Ratnakar,Staff,1999-11-30,9999-01-01
+492217,Heekeun,Verhaegen,Senior Engineer,1991-09-28,9999-01-01
+492639,Sanjoy,Porenta,Engineer,1997-07-10,9999-01-01
+492677,Goetz,McAffer,Senior Engineer,1994-02-04,9999-01-01
+493031,Hironoby,Jakobus,Senior Staff,1996-07-29,9999-01-01
+493048,Muzhong,Berztiss,Senior Staff,2001-01-22,9999-01-01
+493096,Sachem,Msuda,Engineer,1995-04-07,9999-01-01
+493744,Leni,Kropatsch,Senior Engineer,1997-07-17,9999-01-01
+494019,Morrie,Iisaku,Senior Staff,1999-05-06,9999-01-01
+494088,Phule,Dahlbom,Senior Engineer,1997-02-06,9999-01-01
+494493,Masasuke,Koprowski,Staff,1996-11-20,9999-01-01
+494995,Yongmao,Pouyioutas,Senior Staff,1996-08-24,9999-01-01
+496100,Pranjal,Reinhard,Staff,1995-05-08,9999-01-01
+496970,Giordano,Maquelin,Senior Engineer,1999-12-31,9999-01-01
+496978,Danco,Debuse,Senior Staff,1998-09-10,9999-01-01
+497007,Oldrich,Adachi,Senior Engineer,2002-04-03,9999-01-01
+497174,Sanjiv,Bressoud,Senior Engineer,1998-04-27,9999-01-01
+497340,Fayez,Keohane,Senior Staff,1990-09-19,9999-01-01
+497391,Paris,Lieblein,Engineer,1999-05-19,9999-01-01
+497835,Shuho,Laurillard,Technique Leader,1999-10-06,9999-01-01
+498185,Caolyn,Marciano,Senior Engineer,1999-06-06,9999-01-01
+498337,Naraig,Docker,Staff,1997-05-17,9999-01-01
+498456,Geraldo,Gerteisen,Senior Staff,1993-06-04,9999-01-01
+498635,Florian,Pezzoli,Senior Staff,1997-07-22,9999-01-01
+498838,Sanjay,Ciolek,Senior Staff,1998-12-13,9999-01-01
+498845,Arumugam,Pelc,Senior Engineer,1999-11-13,9999-01-01
+498955,Nechama,Kandlur,Senior Engineer,2002-01-16,9999-01-01
+499194,Padma,Delgrange,Senior Staff,1998-01-02,9999-01-01
+499260,Danae,Honglei,Engineer,1998-09-14,9999-01-01
+499495,Baoqiu,Kakkar,Engineer,1999-08-30,9999-01-01
