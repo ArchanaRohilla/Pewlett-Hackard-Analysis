@@ -1,28 +1,26 @@
 # Pewlett-Hackard-Analysis
 
 ## Project Overview
-
-
-## Database analysis for retirement
-
-Database analysis for the employees eligible for the retirement has been done. The retirement criterion was that the birth date of the 
+Database analysis for the employees eligible for the retirement has been carried out. The retirement criterion was that the birth date of the 
 employee should be between 1952 and 1955. And also the employee should be hired between 1985 and 1988.
 
-## Summary of results:
+## Software
+SQL, PostgreSQL, pgAdmin 
 
-## Number of individuals retiring 
+## Summary
+### Number of individuals retiring 
 There are 33118 current employees which are retiring  as per the above criterion.	
 	
 
-## Number of individuals being hired 
+### Number of individuals being hired 
 The number of individuals being hired should be ideally equal to the number of retirees (i.e.33118). But there should also be 
 some criterion for hiring as well.
 
-## Number of individuals available for mentorship role 
+### Number of individuals available for mentorship role 
 There are 1549 employees who are eligible for mentorship role.The mentorship criterion was that the employee should be born 
 in year 1965. 
 
-## Recommendation for further analysis on this data set	
+### Recommendation for further analysis on this data set	
 There should be some criterion for hiring individuals as well. Because with the change of time and the technology enhancement 
 or automation the company requirement changes. Also the current salary should be updated in the database after the employees's 
 promotion. 
@@ -35,11 +33,11 @@ promotion.
 
 	
 
-## Code for the requested queries, with examples of each output:
+## Code for the queries
 
 ### List of (titles) retiring employees
 
-- SELECT ce.emp_no,
+	SELECT ce.emp_no,
 	ce.first_name,
 	ce.last_name,
 	ti.title,
@@ -52,7 +50,7 @@ promotion.
 	INNER JOIN salaries as s
 	ON (ce.emp_no = s.emp_no);
 
-	--Refer to titles_retirees.csv in Data folder.
+	* Refer to titles_retirees.csv in Data folder.
 	SELECT * FROM titles_retirees;
 
 ### List of Only the Most Recent Titles
@@ -114,6 +112,8 @@ promotion.
 	SELECT * FROM mentor_table;
 
 ### List of mentors with their current titles
+![alt text](JPGS/ProcessFlow.png)
+
 
 	with my_table as (
 	SELECT *, row_number() OVER (Partition By first_name, last_name Order by from_date desc) as r_num
