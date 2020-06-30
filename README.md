@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 # Database analysis for retirement:
-	-Database analysis for the employees eligible for the retirement has been done. The retirement criterion was that the birth date of the 
- 	employee should be between 1952 and 1955. And also the employee should be hired between 1985 and 1988.
+Database analysis for the employees eligible for the retirement has been done. The retirement criterion was that the birth date of the 
+employee should be between 1952 and 1955. And also the employee should be hired between 1985 and 1988.
 
 # Summary of results:
 
@@ -25,9 +25,10 @@
 	
 
 # PNG of ERD:
-	- Refer to "EmployeeDB.png"
-	- <img EmployeeDB="EmployeeDB.png" width="100">
 
+![alt text](https://github.com/ArchanaRohilla/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
+
+	
 
 # Code for the requested queries, with examples of each output:
 
