@@ -31,7 +31,7 @@ There are 33118 current employees which are retiring  as per the above criterion
 
 ## Entity Relationship Diagram:
 
-![alt text](https://github.com/ArchanaRohilla/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
+![alt text](https://github.com/ArchanaRohilla/Pewlett-Hackard-Analysis/blob/master/Images/EmployeeDB.png)
 
 	
 
