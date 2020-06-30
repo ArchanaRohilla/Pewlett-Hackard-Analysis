@@ -56,7 +56,9 @@ There are 33118 current employees which are retiring  as per the above criterion
 	SELECT * FROM titles_retirees;
 
 ### List of Only the Most Recent Titles
---list of retirees with their titles in decending order as per from_date column
+
+### List of retirees with their titles in decending order as per from_date column
+
 	SELECT *, 
 	ROW_NUMBER() OVER (PARTITION BY first_name, last_name ORDER BY from_date DESC) AS r_num
 	INTO titles_order
@@ -76,7 +78,8 @@ There are 33118 current employees which are retiring  as per the above criterion
 	--Refer to titles_current.csv in Data folder.
 	SELECT * FROM titles_current;
 
-### List of the title count.
+### List of the title count
+
 	SELECT emp_no, first_name, last_name, title, from_date, salary,
 		COUNT(emp_no) OVER (PARTITION BY title) AS t_count
 	INTO count_titles
@@ -94,6 +97,7 @@ There are 33118 current employees which are retiring  as per the above criterion
 	SELECT * FROM titles_count;
 
 ### List of employees who are ready for Mentorship
+
 	SELECT
 	e.emp_no,
 	e.first_name,
@@ -110,6 +114,7 @@ There are 33118 current employees which are retiring  as per the above criterion
 	SELECT * FROM mentor_table;
 
 ### List of mentors with their current titles
+
 	with my_table as (
 	SELECT *, row_number() OVER (Partition By first_name, last_name Order by from_date desc) as r_num
 	FROM mentor_table) 
