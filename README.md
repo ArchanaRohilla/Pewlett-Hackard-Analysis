@@ -8,10 +8,10 @@
 Database analysis for the employees eligible for the retirement has been done. The retirement criterion was that the birth date of the 
 employee should be between 1952 and 1955. And also the employee should be hired between 1985 and 1988.
 
-# Summary of results:
+## Summary of results:
 
 ## Number of individuals retiring 
-	-There are 33118 current employees which are retiring  as per the above criterion.	
+There are 33118 current employees which are retiring  as per the above criterion.	
 	
 
 ## Number of individuals being hired 
@@ -35,9 +35,9 @@ employee should be between 1952 and 1955. And also the employee should be hired 
 
 	
 
-# Code for the requested queries, with examples of each output:
+## Code for the requested queries, with examples of each output:
 
-##--LIST of (titles) retiring employees
+* LIST of (titles) retiring employees
 	SELECT ce.emp_no,
 	ce.first_name,
 	ce.last_name,
@@ -54,7 +54,7 @@ employee should be between 1952 and 1955. And also the employee should be hired 
 	--Refer to titles_retirees.csv in Data folder.
 	SELECT * FROM titles_retirees;
 
-##--List of Only the Most Recent Titles
+* List of Only the Most Recent Titles
 --list of retirees with their titles in decending order as per from_date column
 	SELECT *, 
 	ROW_NUMBER() OVER (PARTITION BY first_name, last_name ORDER BY from_date DESC) AS r_num
