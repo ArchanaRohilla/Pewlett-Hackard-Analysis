@@ -112,7 +112,7 @@ promotion.
 	SELECT * FROM mentor_table;
 
 ### List of mentors with their current titles
-![alt text](JPGS/ProcessFlow.png)
+![mentors_current](https://github.com/ArchanaRohilla/Pewlett-Hackard-Analysis/blob/master/Images/mentor_current.png)
 
 
 	with my_table as (
