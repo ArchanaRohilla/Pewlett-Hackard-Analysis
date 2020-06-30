@@ -37,8 +37,9 @@ There are 33118 current employees which are retiring  as per the above criterion
 
 ## Code for the requested queries, with examples of each output:
 
-* LIST of (titles) retiring employees
--- SELECT ce.emp_no,
+### LIST of (titles) retiring employees
+
+- SELECT ce.emp_no,
 	ce.first_name,
 	ce.last_name,
 	ti.title,
@@ -54,7 +55,7 @@ There are 33118 current employees which are retiring  as per the above criterion
 	--Refer to titles_retirees.csv in Data folder.
 	SELECT * FROM titles_retirees;
 
-* List of Only the Most Recent Titles
+### List of Only the Most Recent Titles
 --list of retirees with their titles in decending order as per from_date column
 	SELECT *, 
 	ROW_NUMBER() OVER (PARTITION BY first_name, last_name ORDER BY from_date DESC) AS r_num
