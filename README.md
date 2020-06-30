@@ -15,17 +15,17 @@ There are 33118 current employees which are retiring  as per the above criterion
 	
 
 ## Number of individuals being hired 
-	-The number of individuals being hired should be ideally equal to the number of retirees (i.e.33118). But there should also be 
-	some criterion for hiring as well.
+The number of individuals being hired should be ideally equal to the number of retirees (i.e.33118). But there should also be 
+some criterion for hiring as well.
 
 ## Number of individuals available for mentorship role 
-	-There are 1549 employees who are eligible for mentorship role.The mentorship criterion was that the employee should be born 
-	in year 1965. 
+There are 1549 employees who are eligible for mentorship role.The mentorship criterion was that the employee should be born 
+in year 1965. 
 
-# Recommendation for further analysis on this data set	
-	-There should be some criterion for hiring individuals as well. Because with the change of time and the technology enhancement 
-	or automation the company requirement changes. Also the current salary should be updated in the database after the employees's 
-	promotion. 
+## Recommendation for further analysis on this data set	
+There should be some criterion for hiring individuals as well. Because with the change of time and the technology enhancement 
+or automation the company requirement changes. Also the current salary should be updated in the database after the employees's 
+promotion. 
  
 	
 
