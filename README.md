@@ -24,7 +24,7 @@ employee should be between 1952 and 1955. And also the employee should be hired 
  
 	
 
-# PNG of ERD:
+# Entity Relationship Diagram:
 
 ![alt text](https://github.com/ArchanaRohilla/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
 
