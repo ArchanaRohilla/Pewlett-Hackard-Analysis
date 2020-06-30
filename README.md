@@ -33,7 +33,7 @@ promotion.
 
 	
 
-## Code for the queries
+## Code for the Queries
 
 ### List of (titles) retiring employees
 
@@ -50,13 +50,12 @@ promotion.
 	INNER JOIN salaries as s
 	ON (ce.emp_no = s.emp_no);
 
-	* Refer to titles_retirees.csv in Data folder.
+	--Refer to titles_retirees.csv in Data folder.
 	SELECT * FROM titles_retirees;
 
 ### List of Only the Most Recent Titles
 
-### List of retirees with their titles in decending order as per from_date column
-
+        --List of retirees with their titles in decending order as per from_date column
 	SELECT *, 
 	ROW_NUMBER() OVER (PARTITION BY first_name, last_name ORDER BY from_date DESC) AS r_num
 	INTO titles_order
@@ -112,8 +111,6 @@ promotion.
 	SELECT * FROM mentor_table;
 
 ### List of mentors with their current titles
-![mentors_current](https://github.com/ArchanaRohilla/Pewlett-Hackard-Analysis/blob/master/Images/mentor_current.png)
-
 
 	with my_table as (
 	SELECT *, row_number() OVER (Partition By first_name, last_name Order by from_date desc) as r_num
