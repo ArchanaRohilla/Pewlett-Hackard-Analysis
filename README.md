@@ -38,7 +38,7 @@ There are 33118 current employees which are retiring  as per the above criterion
 ## Code for the requested queries, with examples of each output:
 
 * LIST of (titles) retiring employees
-	SELECT ce.emp_no,
+-- SELECT ce.emp_no,
 	ce.first_name,
 	ce.last_name,
 	ti.title,
