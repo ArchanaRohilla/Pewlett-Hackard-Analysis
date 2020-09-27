@@ -1,10 +1,10 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard Employees Database Management and Analysis
 
 ## Project Overview
 In this project, Database analysis for the employees eligible for the retirement has been carried out. The retirement criterion was that the birth date of the 
 employee should be between 1952 and 1955. And also the employee should be hired between 1985 and 1988.
 
-## Software
+## Tools
 SQL, PostgreSQL, pgAdmin 
 
 ## Summary
